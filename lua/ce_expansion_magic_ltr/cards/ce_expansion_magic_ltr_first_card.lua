@@ -1,9 +1,9 @@
 local CARD = CARD
 
-CARD.Name = "{{ EXPANSION_ID }}_first_card"
-CARD.Description = "{{ EXPANSION_ID }}_first_card_description"
-CARD.Texture = "card_engine/expansions/{{ EXPANSION_ID }}/first_card"
-CARD.RearTexture = "card_engine/expansions/{{ EXPANSION_ID }}/back"
+CARD.Name = "ce_expansion_magic_ltr_first_card"
+CARD.Description = "ce_expansion_magic_ltr_first_card_description"
+CARD.Texture = "card_engine/expansions/ce_expansion_magic_ltr/first_card"
+CARD.RearTexture = "card_engine/expansions/ce_expansion_magic_ltr/back"
 CARD.CardSize = CardEngine.DEFAULT_CARD_MODELS.COMMON
 
 -- Normally cards are oriented upright, but if your card model is landscape-oriented, you can adjust the angles here
