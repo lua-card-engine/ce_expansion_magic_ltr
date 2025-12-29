@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const designDir = join(__dirname, '..', 'design');
-const outputDir = join(__dirname, '..', 'materials', 'card_engine', 'expansions', 'magic_ltr');
+const designDir = join(__dirname, '..', 'design', 'processed');
+const outputDir = join(__dirname, '..', 'materials', 'card_engine', 'expansions', 'ce_expansion_magic_ltr');
 
 const files = await readdir(designDir);
 const pngFiles = files.filter(file => extname(file).toLowerCase() === '.png');
