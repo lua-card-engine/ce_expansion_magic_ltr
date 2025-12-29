@@ -7,9 +7,12 @@
     "scripts": {
         "setup": "node setup.js",
         "convert": "node convert.js",
+        "download": "node download.js ltr",
+        "process": "node process.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "png-to-vtf": "^0.2.0"
+        "png-to-vtf": "^0.2.0",
+        "sharp": "^0.34.5"
     }
 }
