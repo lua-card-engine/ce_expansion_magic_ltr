@@ -171,9 +171,9 @@ function convertToLuaValue(value, indent = '    ') {
 }
 
 // Generate Lua card file
-function generateCardLuaFile(card, luaCardFileName) {
-  const cardId = `ce_expansion_magic_${setCode}_${luaCardFileName}`;
-  const texturePath = `card_engine/expansions/ce_expansion_magic_${setCode}/${luaCardFileName}`;
+function generateCardLuaFile(card, textureFileName) {
+  const cardId = `ce_expansion_magic_${setCode}_${makeFileNameSafe(card.name)}`;
+  const texturePath = `card_engine/expansions/ce_expansion_magic_${setCode}/${textureFileName}`;
   const backTexturePath = `card_engine/expansions/ce_expansion_magic_${setCode}/back`;
 
   // Create attributes object from all card properties
@@ -189,7 +189,7 @@ CARD.Name = "${cardId}"
 CARD.Description = "${cardId}_description"
 CARD.Texture = "${texturePath}"
 CARD.RearTexture = "${backTexturePath}"
-CARD.CardSize = CardEngine.DEFAULT_CARD_MODELS.COMMON
+CARD.CardSize = CardEngine.DEFAULT_CARD_MODELS.COMMON_ROUNDED
 CARD.Attributes = ${convertToLuaValue(attributes)}
 `;
 
@@ -315,7 +315,7 @@ async function main() {
 
           // Generate Lua card file
           const luaCardContent = generateCardLuaFile(card, safeFilename);
-          const luaCardPath = join(LUA_CARDS_DIRECTORY, `${safeFilename}.lua`);
+          const luaCardPath = join(LUA_CARDS_DIRECTORY, `magic_${setCode}_${safeFilename}.lua`);
           fs.writeFileSync(luaCardPath, luaCardContent);
           console.log(`  Generated Lua file: ${luaCardPath}`);
 
