@@ -6,11 +6,6 @@ hook.Add(
 	"CardEngineInitializeExpansionPacks",
 	"CardEngine.MagicLtr.InitializeExpansionPack",
 	function()
-		if (not CardEngine) then
-			ErrorNoHalt("Card Engine not found! Expansion pack 'ce_expansion_magic_ltr' will not load.\n")
-			return
-		end
-
 		local EXPANSION_SET_ID = "ce_expansion_magic_ltr"
 
 		-- Register the expansion set with its metadata and filterable attributes
