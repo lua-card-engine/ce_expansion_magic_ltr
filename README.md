@@ -116,3 +116,9 @@ To convert your `.png` card designs to `.vtf`, follow these steps:
     ```bash
     npm run convert
     ```
+
+## 📄 License
+
+The code in this repository is licensed under the [MIT License](LICENSE).
+
+The card designs, artwork and card data are the property of their respective owners and are used here for educational and non-commercial purposes only. Please respect the intellectual property rights of the original creators.
