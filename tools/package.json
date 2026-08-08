@@ -1,7 +1,7 @@
 {
     "name": "ce_expansion_tools",
     "version": "0.1.0",
-    "description": "Tools for {{ EXPANSION_ID }} expansion pack",
+    "description": "Tools for ce_expansion_magic_ltr expansion pack",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -9,6 +9,7 @@
         "convert": "node convert.js",
         "download": "node download.js ltr",
         "process": "node process.js",
+        "concat-cards": "node concat_cards.js ../lua/ce_expansion_magic_ltr/cards",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
