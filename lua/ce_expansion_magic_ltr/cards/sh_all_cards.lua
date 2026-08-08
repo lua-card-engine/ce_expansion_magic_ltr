@@ -2,6 +2,7 @@ local ALL_CARDS = {}
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_and_ril_flame_of_the_west_348a7a83.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_and_ril_flame_of_the_west_348a7a83.lua"
 	CARD.Name = "ce_expansion_magic_ltr_and_ril_flame_of_the_west"
@@ -164,6 +165,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_and_ril_flame_of_the_west_8f09f834.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_and_ril_flame_of_the_west_8f09f834.lua"
 	CARD.Name = "ce_expansion_magic_ltr_and_ril_flame_of_the_west"
@@ -270,6 +272,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_and_ril_flame_of_the_west_f2a6883a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_and_ril_flame_of_the_west_f2a6883a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_and_ril_flame_of_the_west"
@@ -376,6 +379,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_and_ril_flame_of_the_west.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_and_ril_flame_of_the_west.lua"
 	CARD.Name = "ce_expansion_magic_ltr_and_ril_flame_of_the_west"
@@ -577,6 +581,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_and_arwen_wed_ef88ff15.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_and_arwen_wed_ef88ff15.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_and_arwen_wed"
@@ -733,6 +738,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_and_arwen_wed.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_and_arwen_wed.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_and_arwen_wed"
@@ -928,6 +934,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_company_leader_1fe754de.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_company_leader_1fe754de.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_company_leader"
@@ -1135,6 +1142,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_company_leader_2e04fbba.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_company_leader_2e04fbba.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_company_leader"
@@ -1342,6 +1350,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_company_leader_799a7ed3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_company_leader_799a7ed3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_company_leader"
@@ -1454,6 +1463,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_company_leader.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_company_leader.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_company_leader"
@@ -1661,6 +1671,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_the_uniter_95261d04.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_the_uniter_95261d04.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_the_uniter"
@@ -1779,6 +1790,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_the_uniter_9d689b71.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_the_uniter_9d689b71.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_the_uniter"
@@ -1992,6 +2004,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_the_uniter_d5c3793c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_the_uniter_d5c3793c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_the_uniter"
@@ -2110,6 +2123,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_the_uniter_d712d16d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_the_uniter_d712d16d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_the_uniter"
@@ -2323,6 +2337,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_aragorn_the_uniter.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_aragorn_the_uniter.lua"
 	CARD.Name = "ce_expansion_magic_ltr_aragorn_the_uniter"
@@ -2536,6 +2551,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_mortal_queen_845db0db.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_mortal_queen_845db0db.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_mortal_queen"
@@ -2653,6 +2669,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_mortal_queen_ceb7fd39.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_mortal_queen_ceb7fd39.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_mortal_queen"
@@ -2770,6 +2787,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_mortal_queen_cfcf9126.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_mortal_queen_cfcf9126.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_mortal_queen"
@@ -2943,6 +2961,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_mortal_queen.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_mortal_queen.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_mortal_queen"
@@ -3155,6 +3174,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_s_gift_c10e073b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_s_gift_c10e073b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_s_gift"
@@ -3255,6 +3275,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_s_gift.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_s_gift.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_s_gift"
@@ -3450,6 +3471,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_und_miel_d4095e43.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_und_miel_d4095e43.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_und_miel"
@@ -3559,6 +3581,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_arwen_und_miel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_arwen_und_miel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_arwen_und_miel"
@@ -3763,6 +3786,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_assault_on_osgiliath_a8a6798c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_assault_on_osgiliath_a8a6798c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_assault_on_osgiliath"
@@ -3948,6 +3972,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_assault_on_osgiliath.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_assault_on_osgiliath.lua"
 	CARD.Name = "ce_expansion_magic_ltr_assault_on_osgiliath"
@@ -4172,6 +4197,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bag_end_porter_ac1ea147.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bag_end_porter_ac1ea147.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bag_end_porter"
@@ -4283,6 +4309,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bag_end_porter.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bag_end_porter.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bag_end_porter"
@@ -4489,6 +4516,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_banish_from_edoras_24a056a3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_banish_from_edoras_24a056a3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_banish_from_edoras"
@@ -4589,6 +4617,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_banish_from_edoras.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_banish_from_edoras.lua"
 	CARD.Name = "ce_expansion_magic_ltr_banish_from_edoras"
@@ -4784,6 +4813,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barad_d_r_52fb5819.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barad_d_r_52fb5819.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barad_d_r"
@@ -5007,6 +5037,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barad_d_r_7c92c4d4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barad_d_r_7c92c4d4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barad_d_r"
@@ -5230,6 +5261,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barad_d_r_dafa47ed.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barad_d_r_dafa47ed.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barad_d_r"
@@ -5359,6 +5391,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barad_d_r.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barad_d_r.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barad_d_r"
@@ -5583,6 +5616,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barrow_blade_5daae283.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barrow_blade_5daae283.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barrow_blade"
@@ -5667,6 +5701,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_barrow_blade.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_barrow_blade.lua"
 	CARD.Name = "ce_expansion_magic_ltr_barrow_blade"
@@ -5846,6 +5881,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_battle_scarred_goblin_fdf39753.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_battle_scarred_goblin_fdf39753.lua"
 	CARD.Name = "ce_expansion_magic_ltr_battle_scarred_goblin"
@@ -5958,6 +5994,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_battle_scarred_goblin.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_battle_scarred_goblin.lua"
 	CARD.Name = "ce_expansion_magic_ltr_battle_scarred_goblin"
@@ -6165,6 +6202,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bewitching_leechcraft_27ad5529.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bewitching_leechcraft_27ad5529.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bewitching_leechcraft"
@@ -6267,6 +6305,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bewitching_leechcraft.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bewitching_leechcraft.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bewitching_leechcraft"
@@ -6464,6 +6503,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bilbo_retired_burglar_912c21a5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bilbo_retired_burglar_912c21a5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bilbo_retired_burglar"
@@ -6599,6 +6639,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bilbo_retired_burglar_e3f8f5c5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bilbo_retired_burglar_e3f8f5c5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bilbo_retired_burglar"
@@ -6828,6 +6869,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bilbo_retired_burglar.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bilbo_retired_burglar.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bilbo_retired_burglar"
@@ -7058,6 +7100,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bilbo_s_ring_f76bf9db.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bilbo_s_ring_f76bf9db.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bilbo_s_ring"
@@ -7211,6 +7254,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bilbo_s_ring.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bilbo_s_ring.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bilbo_s_ring"
@@ -7403,6 +7447,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bill_ferny_bree_swindler_6865ce61.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bill_ferny_bree_swindler_6865ce61.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bill_ferny_bree_swindler"
@@ -7513,6 +7558,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bill_ferny_bree_swindler.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bill_ferny_bree_swindler.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bill_ferny_bree_swindler"
@@ -7718,6 +7764,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bill_the_pony_2b4c026b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bill_the_pony_2b4c026b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bill_the_pony"
@@ -7843,6 +7890,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bill_the_pony.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bill_the_pony.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bill_the_pony"
@@ -8063,6 +8111,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_birthday_escape_1ec912f4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_birthday_escape_1ec912f4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_birthday_escape"
@@ -8189,6 +8238,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_birthday_escape.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_birthday_escape.lua"
 	CARD.Name = "ce_expansion_magic_ltr_birthday_escape"
@@ -8410,6 +8460,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bitter_downfall_e9adec57.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bitter_downfall_e9adec57.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bitter_downfall"
@@ -8498,6 +8549,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bitter_downfall.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bitter_downfall.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bitter_downfall"
@@ -8681,6 +8733,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bombadil_s_song_04116938.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bombadil_s_song_04116938.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bombadil_s_song"
@@ -8807,6 +8860,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_bombadil_s_song.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_bombadil_s_song.lua"
 	CARD.Name = "ce_expansion_magic_ltr_bombadil_s_song"
@@ -9028,6 +9082,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_book_of_mazarbul_0cf7edb8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_book_of_mazarbul_0cf7edb8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_book_of_mazarbul"
@@ -9152,6 +9207,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_book_of_mazarbul.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_book_of_mazarbul.lua"
 	CARD.Name = "ce_expansion_magic_ltr_book_of_mazarbul"
@@ -9371,6 +9427,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_borne_upon_a_wind_3385c2ef.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_borne_upon_a_wind_3385c2ef.lua"
 	CARD.Name = "ce_expansion_magic_ltr_borne_upon_a_wind"
@@ -9528,6 +9585,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_borne_upon_a_wind_dc722f94.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_borne_upon_a_wind_dc722f94.lua"
 	CARD.Name = "ce_expansion_magic_ltr_borne_upon_a_wind"
@@ -9629,6 +9687,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_borne_upon_a_wind.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_borne_upon_a_wind.lua"
 	CARD.Name = "ce_expansion_magic_ltr_borne_upon_a_wind"
@@ -9825,6 +9884,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_boromir_warden_of_the_tower_6108d5bd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_boromir_warden_of_the_tower_6108d5bd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_boromir_warden_of_the_tower"
@@ -10062,6 +10122,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_boromir_warden_of_the_tower_87ae4f6c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_boromir_warden_of_the_tower_87ae4f6c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_boromir_warden_of_the_tower"
@@ -10299,6 +10360,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_boromir_warden_of_the_tower_f52b6b8c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_boromir_warden_of_the_tower_f52b6b8c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_boromir_warden_of_the_tower"
@@ -10442,6 +10504,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_boromir_warden_of_the_tower.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_boromir_warden_of_the_tower.lua"
 	CARD.Name = "ce_expansion_magic_ltr_boromir_warden_of_the_tower"
@@ -10680,6 +10743,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_brandywine_farmer_e701f2c9.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_brandywine_farmer_e701f2c9.lua"
 	CARD.Name = "ce_expansion_magic_ltr_brandywine_farmer"
@@ -10804,6 +10868,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_brandywine_farmer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_brandywine_farmer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_brandywine_farmer"
@@ -11023,6 +11088,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_breaking_of_the_fellowship_f5e10b33.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_breaking_of_the_fellowship_f5e10b33.lua"
 	CARD.Name = "ce_expansion_magic_ltr_breaking_of_the_fellowship"
@@ -11149,6 +11215,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_breaking_of_the_fellowship.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_breaking_of_the_fellowship.lua"
 	CARD.Name = "ce_expansion_magic_ltr_breaking_of_the_fellowship"
@@ -11370,6 +11437,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_butterbur_bree_innkeeper_bed7d2c4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_butterbur_bree_innkeeper_bed7d2c4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_butterbur_bree_innkeeper"
@@ -11503,6 +11571,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_butterbur_bree_innkeeper.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_butterbur_bree_innkeeper.lua"
 	CARD.Name = "ce_expansion_magic_ltr_butterbur_bree_innkeeper"
@@ -11731,6 +11800,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_call_of_the_ring_4494f4fa.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_call_of_the_ring_4494f4fa.lua"
 	CARD.Name = "ce_expansion_magic_ltr_call_of_the_ring"
@@ -11864,6 +11934,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_call_of_the_ring_91d20940.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_call_of_the_ring_91d20940.lua"
 	CARD.Name = "ce_expansion_magic_ltr_call_of_the_ring"
@@ -12053,6 +12124,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_call_of_the_ring.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_call_of_the_ring.lua"
 	CARD.Name = "ce_expansion_magic_ltr_call_of_the_ring"
@@ -12281,6 +12353,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_captain_of_umbar_9438ab82.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_captain_of_umbar_9438ab82.lua"
 	CARD.Name = "ce_expansion_magic_ltr_captain_of_umbar"
@@ -12387,6 +12460,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_captain_of_umbar.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_captain_of_umbar.lua"
 	CARD.Name = "ce_expansion_magic_ltr_captain_of_umbar"
@@ -12588,6 +12662,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_cast_into_the_fire_452f16f2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_cast_into_the_fire_452f16f2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_cast_into_the_fire"
@@ -12684,6 +12759,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_cast_into_the_fire.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_cast_into_the_fire.lua"
 	CARD.Name = "ce_expansion_magic_ltr_cast_into_the_fire"
@@ -12875,6 +12951,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_celeborn_the_wise_2e9db9c7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_celeborn_the_wise_2e9db9c7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_celeborn_the_wise"
@@ -12986,6 +13063,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_celeborn_the_wise.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_celeborn_the_wise.lua"
 	CARD.Name = "ce_expansion_magic_ltr_celeborn_the_wise"
@@ -13192,6 +13270,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_chance_met_elves_f4a59153.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_chance_met_elves_f4a59153.lua"
 	CARD.Name = "ce_expansion_magic_ltr_chance_met_elves"
@@ -13294,6 +13373,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_chance_met_elves.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_chance_met_elves.lua"
 	CARD.Name = "ce_expansion_magic_ltr_chance_met_elves"
@@ -13491,6 +13571,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_cirith_ungol_patrol_cbf2a2a0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_cirith_ungol_patrol_cbf2a2a0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_cirith_ungol_patrol"
@@ -13615,6 +13696,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_cirith_ungol_patrol.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_cirith_ungol_patrol.lua"
 	CARD.Name = "ce_expansion_magic_ltr_cirith_ungol_patrol"
@@ -13834,6 +13916,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_claim_the_precious_fc63f1b1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_claim_the_precious_fc63f1b1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_claim_the_precious"
@@ -13960,6 +14043,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_claim_the_precious.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_claim_the_precious.lua"
 	CARD.Name = "ce_expansion_magic_ltr_claim_the_precious"
@@ -14181,6 +14265,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_council_s_deliberation_deff9c25.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_council_s_deliberation_deff9c25.lua"
 	CARD.Name = "ce_expansion_magic_ltr_council_s_deliberation"
@@ -14269,6 +14354,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_council_s_deliberation.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_council_s_deliberation.lua"
 	CARD.Name = "ce_expansion_magic_ltr_council_s_deliberation"
@@ -14452,6 +14538,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_d_nedain_blade_122f3ed4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_d_nedain_blade_122f3ed4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_d_nedain_blade"
@@ -14551,6 +14638,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_d_nedain_blade.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_d_nedain_blade.lua"
 	CARD.Name = "ce_expansion_magic_ltr_d_nedain_blade"
@@ -14745,6 +14833,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_d_nedain_rangers_623cab9a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_d_nedain_rangers_623cab9a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_d_nedain_rangers"
@@ -14873,6 +14962,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_d_nedain_rangers.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_d_nedain_rangers.lua"
 	CARD.Name = "ce_expansion_magic_ltr_d_nedain_rangers"
@@ -15096,6 +15186,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dawn_of_a_new_age_40ab9811.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dawn_of_a_new_age_40ab9811.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dawn_of_a_new_age"
@@ -15248,6 +15339,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dawn_of_a_new_age_5559234e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dawn_of_a_new_age_5559234e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dawn_of_a_new_age"
@@ -15344,6 +15436,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dawn_of_a_new_age_63ea5409.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dawn_of_a_new_age_63ea5409.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dawn_of_a_new_age"
@@ -15440,6 +15533,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dawn_of_a_new_age.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dawn_of_a_new_age.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dawn_of_a_new_age"
@@ -15631,6 +15725,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_deceive_the_messenger_e0e562e8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_deceive_the_messenger_e0e562e8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_deceive_the_messenger"
@@ -15757,6 +15852,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_deceive_the_messenger.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_deceive_the_messenger.lua"
 	CARD.Name = "ce_expansion_magic_ltr_deceive_the_messenger"
@@ -15978,6 +16074,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_delighted_halfling_113c88f1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_delighted_halfling_113c88f1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_delighted_halfling"
@@ -16086,6 +16183,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_delighted_halfling_37ee1eeb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_delighted_halfling_37ee1eeb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_delighted_halfling"
@@ -16288,6 +16386,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_delighted_halfling_d24a805f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_delighted_halfling_d24a805f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_delighted_halfling"
@@ -16452,6 +16551,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_delighted_halfling.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_delighted_halfling.lua"
 	CARD.Name = "ce_expansion_magic_ltr_delighted_halfling"
@@ -16655,6 +16755,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_denethor_ruling_steward_526f4ee3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_denethor_ruling_steward_526f4ee3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_denethor_ruling_steward"
@@ -16768,6 +16869,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_denethor_ruling_steward.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_denethor_ruling_steward.lua"
 	CARD.Name = "ce_expansion_magic_ltr_denethor_ruling_steward"
@@ -16976,6 +17078,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_display_of_power_980677fb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_display_of_power_980677fb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_display_of_power"
@@ -17169,6 +17272,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_display_of_power_f34ca922.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_display_of_power_f34ca922.lua"
 	CARD.Name = "ce_expansion_magic_ltr_display_of_power"
@@ -17306,6 +17410,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_display_of_power.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_display_of_power.lua"
 	CARD.Name = "ce_expansion_magic_ltr_display_of_power"
@@ -17538,6 +17643,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_doors_of_durin_9bb9ed27.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_doors_of_durin_9bb9ed27.lua"
 	CARD.Name = "ce_expansion_magic_ltr_doors_of_durin"
@@ -17644,6 +17750,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_doors_of_durin_d9a69802.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_doors_of_durin_d9a69802.lua"
 	CARD.Name = "ce_expansion_magic_ltr_doors_of_durin"
@@ -17806,6 +17913,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_doors_of_durin.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_doors_of_durin.lua"
 	CARD.Name = "ce_expansion_magic_ltr_doors_of_durin"
@@ -18007,6 +18115,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dreadful_as_the_storm_541593fb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dreadful_as_the_storm_541593fb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dreadful_as_the_storm"
@@ -18137,6 +18246,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dreadful_as_the_storm.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dreadful_as_the_storm.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dreadful_as_the_storm"
@@ -18362,6 +18472,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dunland_crebain_d9f6ece3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dunland_crebain_d9f6ece3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dunland_crebain"
@@ -18499,6 +18610,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dunland_crebain_ec09bf2f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dunland_crebain_ec09bf2f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dunland_crebain"
@@ -18730,6 +18842,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_dunland_crebain.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_dunland_crebain.lua"
 	CARD.Name = "ce_expansion_magic_ltr_dunland_crebain"
@@ -18962,6 +19075,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eagle_of_deliverance_4c772bb4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eagle_of_deliverance_4c772bb4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eagle_of_deliverance"
@@ -19060,6 +19174,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eagle_of_deliverance.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eagle_of_deliverance.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eagle_of_deliverance"
@@ -19158,6 +19273,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eagles_of_the_north_804a0d81.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eagles_of_the_north_804a0d81.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eagles_of_the_north"
@@ -19273,6 +19389,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eagles_of_the_north.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eagles_of_the_north.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eagles_of_the_north"
@@ -19483,6 +19600,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_east_mark_cavalier_373d4294.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_east_mark_cavalier_373d4294.lua"
 	CARD.Name = "ce_expansion_magic_ltr_east_mark_cavalier"
@@ -19585,6 +19703,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_east_mark_cavalier.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_east_mark_cavalier.lua"
 	CARD.Name = "ce_expansion_magic_ltr_east_mark_cavalier"
@@ -19782,6 +19901,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_easterling_vanguard_fc02db99.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_easterling_vanguard_fc02db99.lua"
 	CARD.Name = "ce_expansion_magic_ltr_easterling_vanguard"
@@ -19914,6 +20034,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_easterling_vanguard.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_easterling_vanguard.lua"
 	CARD.Name = "ce_expansion_magic_ltr_easterling_vanguard"
@@ -20141,6 +20262,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eastfarthing_farmer_d0a5552f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eastfarthing_farmer_d0a5552f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eastfarthing_farmer"
@@ -20268,6 +20390,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_eastfarthing_farmer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_eastfarthing_farmer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_eastfarthing_farmer"
@@ -20490,6 +20613,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elanor_gardner_13996f88.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elanor_gardner_13996f88.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elanor_gardner"
@@ -20677,6 +20801,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elanor_gardner.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elanor_gardner.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elanor_gardner"
@@ -20903,6 +21028,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_lord_of_rivendell_a22ede70.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_lord_of_rivendell_a22ede70.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_lord_of_rivendell"
@@ -21036,6 +21162,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_lord_of_rivendell_b6397c06.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_lord_of_rivendell_b6397c06.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_lord_of_rivendell"
@@ -21263,6 +21390,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_lord_of_rivendell.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_lord_of_rivendell.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_lord_of_rivendell"
@@ -21491,6 +21619,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_master_of_healing_9481a514.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_master_of_healing_9481a514.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_master_of_healing"
@@ -21702,6 +21831,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_master_of_healing_d781a205.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_master_of_healing_d781a205.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_master_of_healing"
@@ -21818,6 +21948,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_master_of_healing_e0f181de.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_master_of_healing_e0f181de.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_master_of_healing"
@@ -22029,6 +22160,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elrond_master_of_healing.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elrond_master_of_healing.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elrond_master_of_healing"
@@ -22240,6 +22372,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elven_chorus_c826a11b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elven_chorus_c826a11b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elven_chorus"
@@ -22357,6 +22490,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elven_chorus_e67d0f41.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elven_chorus_e67d0f41.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elven_chorus"
@@ -22530,6 +22664,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elven_chorus.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elven_chorus.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elven_chorus"
@@ -22742,6 +22877,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elven_farsight_869fe9ae.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elven_farsight_869fe9ae.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elven_farsight"
@@ -22838,6 +22974,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elven_farsight.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elven_farsight.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elven_farsight"
@@ -23029,6 +23166,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elvish_mariner_7358376b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elvish_mariner_7358376b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elvish_mariner"
@@ -23189,6 +23327,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_elvish_mariner.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_elvish_mariner.lua"
 	CARD.Name = "ce_expansion_magic_ltr_elvish_mariner"
@@ -23388,6 +23527,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_enraged_huorn_9ac12791.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_enraged_huorn_9ac12791.lua"
 	CARD.Name = "ce_expansion_magic_ltr_enraged_huorn"
@@ -23523,6 +23663,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_enraged_huorn.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_enraged_huorn.lua"
 	CARD.Name = "ce_expansion_magic_ltr_enraged_huorn"
@@ -23753,6 +23894,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ent_draught_basin_9a9c28ab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ent_draught_basin_9a9c28ab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ent_draught_basin"
@@ -23835,6 +23977,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ent_draught_basin.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ent_draught_basin.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ent_draught_basin"
@@ -24012,6 +24155,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ent_s_fury_b6cb2c52.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ent_s_fury_b6cb2c52.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ent_s_fury"
@@ -24112,6 +24256,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ent_s_fury.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ent_s_fury.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ent_s_fury"
@@ -24307,6 +24452,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_entish_restoration_bcdab49a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_entish_restoration_bcdab49a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_entish_restoration"
@@ -24401,6 +24547,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_entish_restoration.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_entish_restoration.lua"
 	CARD.Name = "ce_expansion_magic_ltr_entish_restoration"
@@ -24590,6 +24737,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_erebor_flamesmith_7f587fe0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_erebor_flamesmith_7f587fe0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_erebor_flamesmith"
@@ -24698,6 +24846,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_erebor_flamesmith.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_erebor_flamesmith.lua"
 	CARD.Name = "ce_expansion_magic_ltr_erebor_flamesmith"
@@ -24901,6 +25050,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_erkenbrand_lord_of_westfold_9806ffa0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_erkenbrand_lord_of_westfold_9806ffa0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_erkenbrand_lord_of_westfold"
@@ -25008,6 +25158,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_erkenbrand_lord_of_westfold.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_erkenbrand_lord_of_westfold.lua"
 	CARD.Name = "ce_expansion_magic_ltr_erkenbrand_lord_of_westfold"
@@ -25210,6 +25361,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_errand_rider_of_gondor_77a919c5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_errand_rider_of_gondor_77a919c5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_errand_rider_of_gondor"
@@ -25312,6 +25464,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_errand_rider_of_gondor.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_errand_rider_of_gondor.lua"
 	CARD.Name = "ce_expansion_magic_ltr_errand_rider_of_gondor"
@@ -25509,6 +25662,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_escape_from_orthanc_72a95b0e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_escape_from_orthanc_72a95b0e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_escape_from_orthanc"
@@ -25605,6 +25759,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_escape_from_orthanc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_escape_from_orthanc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_escape_from_orthanc"
@@ -25796,6 +25951,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_esquire_of_the_king_05d1dfb8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_esquire_of_the_king_05d1dfb8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_esquire_of_the_king"
@@ -25898,6 +26054,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_esquire_of_the_king.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_esquire_of_the_king.lua"
 	CARD.Name = "ce_expansion_magic_ltr_esquire_of_the_king"
@@ -26095,6 +26252,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fall_of_cair_andros_3156cafd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fall_of_cair_andros_3156cafd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fall_of_cair_andros"
@@ -26279,6 +26437,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fall_of_cair_andros_9b126c02.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fall_of_cair_andros_9b126c02.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fall_of_cair_andros"
@@ -26407,6 +26566,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fall_of_cair_andros.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fall_of_cair_andros.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fall_of_cair_andros"
@@ -26630,6 +26790,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fall_of_gil_galad_d0d359dc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fall_of_gil_galad_d0d359dc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fall_of_gil_galad"
@@ -26725,6 +26886,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fall_of_gil_galad.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fall_of_gil_galad.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fall_of_gil_galad"
@@ -26915,6 +27077,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fangorn_tree_shepherd_3ab908a4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fangorn_tree_shepherd_3ab908a4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fangorn_tree_shepherd"
@@ -27031,6 +27194,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fangorn_tree_shepherd_a767f6a8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fangorn_tree_shepherd_a767f6a8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fangorn_tree_shepherd"
@@ -27241,6 +27405,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fangorn_tree_shepherd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fangorn_tree_shepherd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fangorn_tree_shepherd"
@@ -27452,6 +27617,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_field_commander_0180338c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_field_commander_0180338c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_field_commander"
@@ -27663,6 +27829,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_field_commander_2e1e2c8a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_field_commander_2e1e2c8a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_field_commander"
@@ -27780,6 +27947,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_field_commander.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_field_commander.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_field_commander"
@@ -27992,6 +28160,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_prince_of_ithilien_400bea96.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_prince_of_ithilien_400bea96.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_prince_of_ithilien"
@@ -28198,6 +28367,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_prince_of_ithilien_68c818ba.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_prince_of_ithilien_68c818ba.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_prince_of_ithilien"
@@ -28310,6 +28480,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_faramir_prince_of_ithilien.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_faramir_prince_of_ithilien.lua"
 	CARD.Name = "ce_expansion_magic_ltr_faramir_prince_of_ithilien"
@@ -28517,6 +28688,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fear_fire_foes_634278e6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fear_fire_foes_634278e6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fear_fire_foes"
@@ -28605,6 +28777,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fear_fire_foes.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fear_fire_foes.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fear_fire_foes"
@@ -28788,6 +28961,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fiery_inscription_10197192.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fiery_inscription_10197192.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fiery_inscription"
@@ -28910,6 +29084,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fiery_inscription.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fiery_inscription.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fiery_inscription"
@@ -29127,6 +29302,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fire_of_orthanc_a4f85975.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fire_of_orthanc_a4f85975.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fire_of_orthanc"
@@ -29223,6 +29399,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fire_of_orthanc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fire_of_orthanc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fire_of_orthanc"
@@ -29414,6 +29591,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fires_of_mount_doom_ec46fa2b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fires_of_mount_doom_ec46fa2b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fires_of_mount_doom"
@@ -29582,6 +29760,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fires_of_mount_doom.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fires_of_mount_doom.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fires_of_mount_doom"
@@ -29789,6 +29968,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flame_of_anor_1ef6cb71.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flame_of_anor_1ef6cb71.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flame_of_anor"
@@ -29981,6 +30161,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flame_of_anor_8ce6d2e5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flame_of_anor_8ce6d2e5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flame_of_anor"
@@ -30079,6 +30260,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flame_of_anor.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flame_of_anor.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flame_of_anor"
@@ -30272,6 +30454,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flowering_of_the_white_tree_65bbf4e4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flowering_of_the_white_tree_65bbf4e4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flowering_of_the_white_tree"
@@ -30426,6 +30609,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flowering_of_the_white_tree_c8fceeb8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flowering_of_the_white_tree_c8fceeb8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flowering_of_the_white_tree"
@@ -30524,6 +30708,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_flowering_of_the_white_tree.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_flowering_of_the_white_tree.lua"
 	CARD.Name = "ce_expansion_magic_ltr_flowering_of_the_white_tree"
@@ -30717,6 +30902,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fog_on_the_barrow_downs_1110be68.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fog_on_the_barrow_downs_1110be68.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fog_on_the_barrow_downs"
@@ -30820,6 +31006,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_fog_on_the_barrow_downs.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_fog_on_the_barrow_downs.lua"
 	CARD.Name = "ce_expansion_magic_ltr_fog_on_the_barrow_downs"
@@ -31018,6 +31205,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_foray_of_orcs_0f315cee.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_foray_of_orcs_0f315cee.lua"
 	CARD.Name = "ce_expansion_magic_ltr_foray_of_orcs"
@@ -31235,6 +31423,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_foray_of_orcs_8f448918.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_foray_of_orcs_8f448918.lua"
 	CARD.Name = "ce_expansion_magic_ltr_foray_of_orcs"
@@ -31357,6 +31546,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_foray_of_orcs.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_foray_of_orcs.lua"
 	CARD.Name = "ce_expansion_magic_ltr_foray_of_orcs"
@@ -31574,6 +31764,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forest_710a9e35.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forest_710a9e35.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forest"
@@ -32007,6 +32198,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forest_9af7ce71.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forest_9af7ce71.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forest"
@@ -32440,6 +32632,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forest_bdbf9983.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forest_bdbf9983.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forest"
@@ -32873,6 +33066,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forest.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forest.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forest"
@@ -33306,6 +33500,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forge_anew_07fffe7c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forge_anew_07fffe7c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forge_anew"
@@ -33406,6 +33601,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forge_anew_da2918ed.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forge_anew_da2918ed.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forge_anew"
@@ -33562,6 +33758,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_forge_anew.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_forge_anew.lua"
 	CARD.Name = "ce_expansion_magic_ltr_forge_anew"
@@ -33757,6 +33954,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_friendly_rivalry_8c5cdd9a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_friendly_rivalry_8c5cdd9a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_friendly_rivalry"
@@ -33857,6 +34055,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_friendly_rivalry.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_friendly_rivalry.lua"
 	CARD.Name = "ce_expansion_magic_ltr_friendly_rivalry"
@@ -34052,6 +34251,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_baggins_00b6e678.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_baggins_00b6e678.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_baggins"
@@ -34291,6 +34491,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_baggins_5cebdefe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_baggins_5cebdefe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_baggins"
@@ -34530,6 +34731,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_baggins_9900f91f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_baggins_9900f91f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_baggins"
@@ -34675,6 +34877,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_baggins.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_baggins.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_baggins"
@@ -34915,6 +35118,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_determined_hero_cf4e8520.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_determined_hero_cf4e8520.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_determined_hero"
@@ -35072,6 +35276,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_determined_hero.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_determined_hero.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_determined_hero"
@@ -35268,6 +35473,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_sauron_s_bane_26c4b82d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_sauron_s_bane_26c4b82d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_sauron_s_bane"
@@ -35510,6 +35716,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_sauron_s_bane_5c29a0a4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_sauron_s_bane_5c29a0a4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_sauron_s_bane"
@@ -35713,6 +35920,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_sauron_s_bane_ecf7b74f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_sauron_s_bane_ecf7b74f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_sauron_s_bane"
@@ -35860,6 +36068,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_frodo_sauron_s_bane.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_frodo_sauron_s_bane.lua"
 	CARD.Name = "ce_expansion_magic_ltr_frodo_sauron_s_bane"
@@ -36102,6 +36311,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadhrim_bow_15c6c002.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadhrim_bow_15c6c002.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadhrim_bow"
@@ -36218,6 +36428,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadhrim_bow.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadhrim_bow.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadhrim_bow"
@@ -36429,6 +36640,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadhrim_guide_7962c8e9.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadhrim_guide_7962c8e9.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadhrim_guide"
@@ -36535,6 +36747,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadhrim_guide.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadhrim_guide.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadhrim_guide"
@@ -36736,6 +36949,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_gift_giver_614520ac.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_gift_giver_614520ac.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_gift_giver"
@@ -36914,6 +37128,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_gift_giver.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_gift_giver.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_gift_giver"
@@ -37131,6 +37346,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_of_lothl_rien_145846a5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_of_lothl_rien_145846a5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_of_lothl_rien"
@@ -37248,6 +37464,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_of_lothl_rien_21eac931.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_of_lothl_rien_21eac931.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_of_lothl_rien"
@@ -37459,6 +37676,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_of_lothl_rien_52d0a9a7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_of_lothl_rien_52d0a9a7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_of_lothl_rien"
@@ -37670,6 +37888,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_galadriel_of_lothl_rien.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_galadriel_of_lothl_rien.lua"
 	CARD.Name = "ce_expansion_magic_ltr_galadriel_of_lothl_rien"
@@ -37882,6 +38101,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_friend_of_the_shire_1dc45c22.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_friend_of_the_shire_1dc45c22.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_friend_of_the_shire"
@@ -38093,6 +38313,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_friend_of_the_shire_5991f9bf.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_friend_of_the_shire_5991f9bf.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_friend_of_the_shire"
@@ -38210,6 +38431,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_friend_of_the_shire_bfb6db21.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_friend_of_the_shire_bfb6db21.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_friend_of_the_shire"
@@ -38421,6 +38643,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_friend_of_the_shire.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_friend_of_the_shire.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_friend_of_the_shire"
@@ -38633,6 +38856,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_s_sanction_7dc29c7b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_s_sanction_7dc29c7b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_s_sanction"
@@ -38741,6 +38965,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_s_sanction.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_s_sanction.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_s_sanction"
@@ -38944,6 +39169,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_grey_c8340ab7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_grey_c8340ab7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_grey"
@@ -39067,6 +39293,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_grey_ebba62f7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_grey_ebba62f7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_grey"
@@ -39285,6 +39512,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_grey.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_grey.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_grey"
@@ -39503,6 +39731,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_white_1e1d4549.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_white_1e1d4549.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_white"
@@ -39751,6 +39980,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_white_ca3456a3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_white_ca3456a3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_white"
@@ -39904,6 +40134,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_white_d88e2953.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_white_d88e2953.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_white"
@@ -40057,6 +40288,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_white_e326c529.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_white_e326c529.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_white"
@@ -40305,6 +40537,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_the_white.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_the_white.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_the_white"
@@ -40553,6 +40786,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_white_rider_51ff800f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_white_rider_51ff800f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_white_rider"
@@ -40716,6 +40950,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gandalf_white_rider.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gandalf_white_rider.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gandalf_white_rider"
@@ -40918,6 +41153,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_generous_ent_8f546224.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_generous_ent_8f546224.lua"
 	CARD.Name = "ce_expansion_magic_ltr_generous_ent"
@@ -41048,6 +41284,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_generous_ent.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_generous_ent.lua"
 	CARD.Name = "ce_expansion_magic_ltr_generous_ent"
@@ -41273,6 +41510,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gift_of_strands_3866bccd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gift_of_strands_3866bccd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gift_of_strands"
@@ -41364,6 +41602,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gift_of_strands.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gift_of_strands.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gift_of_strands"
@@ -41550,6 +41789,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_counter_of_kills_003548d1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_counter_of_kills_003548d1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_counter_of_kills"
@@ -41659,6 +41899,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_counter_of_kills_c903d233.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_counter_of_kills_c903d233.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_counter_of_kills"
@@ -41862,6 +42103,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_counter_of_kills.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_counter_of_kills.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_counter_of_kills"
@@ -42066,6 +42308,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_mournful_avenger_372677a1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_mournful_avenger_372677a1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_mournful_avenger"
@@ -42277,6 +42520,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_mournful_avenger_8dbd2bd3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_mournful_avenger_8dbd2bd3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_mournful_avenger"
@@ -42488,6 +42732,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_mournful_avenger_f7da5cc7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_mournful_avenger_f7da5cc7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_mournful_avenger"
@@ -42604,6 +42849,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_mournful_avenger.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_mournful_avenger.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_mournful_avenger"
@@ -42815,6 +43061,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_s_axe_300851a2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_s_axe_300851a2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_s_axe"
@@ -42917,6 +43164,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_s_axe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_s_axe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_s_axe"
@@ -43114,6 +43362,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_s_fury_ec78049f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_s_fury_ec78049f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_s_fury"
@@ -43216,6 +43465,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gimli_s_fury.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gimli_s_fury.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gimli_s_fury"
@@ -43413,6 +43663,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gl_in_dwarf_emissary_88fcc38b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gl_in_dwarf_emissary_88fcc38b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gl_in_dwarf_emissary"
@@ -43610,6 +43861,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gl_in_dwarf_emissary_c1615151.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gl_in_dwarf_emissary_c1615151.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gl_in_dwarf_emissary"
@@ -43751,6 +44003,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gl_in_dwarf_emissary.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gl_in_dwarf_emissary.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gl_in_dwarf_emissary"
@@ -43987,6 +44240,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glamdring_9d3f35ac.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glamdring_9d3f35ac.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glamdring"
@@ -44153,6 +44407,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glamdring_bce67267.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glamdring_bce67267.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glamdring"
@@ -44263,6 +44518,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glamdring_ebf8602c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glamdring_ebf8602c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glamdring"
@@ -44373,6 +44629,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glamdring.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glamdring.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glamdring"
@@ -44578,6 +44835,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glorfindel_dauntless_rescuer_63129c42.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glorfindel_dauntless_rescuer_63129c42.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glorfindel_dauntless_rescuer"
@@ -44689,6 +44947,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glorfindel_dauntless_rescuer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glorfindel_dauntless_rescuer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glorfindel_dauntless_rescuer"
@@ -44895,6 +45154,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glorious_gale_f9dc63af.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glorious_gale_f9dc63af.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glorious_gale"
@@ -45021,6 +45281,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_glorious_gale.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_glorious_gale.lua"
 	CARD.Name = "ce_expansion_magic_ltr_glorious_gale"
@@ -45242,6 +45503,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goblin_assailant.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goblin_assailant.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goblin_assailant"
@@ -45441,6 +45703,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goblin_fireleaper_ccc7b287.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goblin_fireleaper_ccc7b287.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goblin_fireleaper"
@@ -45545,6 +45808,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goblin_fireleaper.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goblin_fireleaper.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goblin_fireleaper"
@@ -45744,6 +46008,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goldberry_river_daughter_b6407fff.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goldberry_river_daughter_b6407fff.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goldberry_river_daughter"
@@ -45853,6 +46118,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goldberry_river_daughter_ff1f69f7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goldberry_river_daughter_ff1f69f7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goldberry_river_daughter"
@@ -46018,6 +46284,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_goldberry_river_daughter.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_goldberry_river_daughter.lua"
 	CARD.Name = "ce_expansion_magic_ltr_goldberry_river_daughter"
@@ -46222,6 +46489,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_patient_plotter_66d3f67d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_patient_plotter_66d3f67d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_patient_plotter"
@@ -46450,6 +46718,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_patient_plotter_74c8d05a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_patient_plotter_74c8d05a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_patient_plotter"
@@ -46639,6 +46908,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_patient_plotter_a338aa25.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_patient_plotter_a338aa25.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_patient_plotter"
@@ -46773,6 +47043,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_patient_plotter.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_patient_plotter.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_patient_plotter"
@@ -47002,6 +47273,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_s_bite_ffcde4b4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_s_bite_ffcde4b4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_s_bite"
@@ -47120,6 +47392,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_s_bite.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_s_bite.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_s_bite"
@@ -47333,6 +47606,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_scheming_guide_9863ac91.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_scheming_guide_9863ac91.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_scheming_guide"
@@ -47503,6 +47777,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gollum_scheming_guide.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gollum_scheming_guide.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gollum_scheming_guide"
@@ -47712,6 +47987,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gorbag_of_minas_morgul_00ed3031.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gorbag_of_minas_morgul_00ed3031.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gorbag_of_minas_morgul"
@@ -47818,6 +48094,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gorbag_of_minas_morgul.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gorbag_of_minas_morgul.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gorbag_of_minas_morgul"
@@ -48019,6 +48296,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gothmog_morgul_lieutenant_1ff45663.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gothmog_morgul_lieutenant_1ff45663.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gothmog_morgul_lieutenant"
@@ -48150,6 +48428,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gothmog_morgul_lieutenant_b9750a55.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gothmog_morgul_lieutenant_b9750a55.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gothmog_morgul_lieutenant"
@@ -48376,6 +48655,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gothmog_morgul_lieutenant.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gothmog_morgul_lieutenant.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gothmog_morgul_lieutenant"
@@ -48602,6 +48882,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gr_ma_wormtongue_a71a04c1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gr_ma_wormtongue_a71a04c1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gr_ma_wormtongue"
@@ -48746,6 +49027,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gr_ma_wormtongue.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gr_ma_wormtongue.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gr_ma_wormtongue"
@@ -48985,6 +49267,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_great_hall_of_the_citadel_bf9e55e3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_great_hall_of_the_citadel_bf9e55e3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_great_hall_of_the_citadel"
@@ -49074,6 +49357,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_great_hall_of_the_citadel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_great_hall_of_the_citadel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_great_hall_of_the_citadel"
@@ -49258,6 +49542,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grey_havens_navigator_9fb28297.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grey_havens_navigator_9fb28297.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grey_havens_navigator"
@@ -49364,6 +49649,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grey_havens_navigator.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grey_havens_navigator.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grey_havens_navigator"
@@ -49565,6 +49851,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grishn_kh_brash_instigator_271fa883.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grishn_kh_brash_instigator_271fa883.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grishn_kh_brash_instigator"
@@ -49699,6 +49986,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grishn_kh_brash_instigator.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grishn_kh_brash_instigator.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grishn_kh_brash_instigator"
@@ -49928,6 +50216,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grond_the_gatebreaker_5b714332.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grond_the_gatebreaker_5b714332.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grond_the_gatebreaker"
@@ -50023,6 +50312,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_grond_the_gatebreaker.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_grond_the_gatebreaker.lua"
 	CARD.Name = "ce_expansion_magic_ltr_grond_the_gatebreaker"
@@ -50213,6 +50503,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gwaihir_the_windlord_16adaa32.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gwaihir_the_windlord_16adaa32.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gwaihir_the_windlord"
@@ -50316,6 +50607,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_gwaihir_the_windlord.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_gwaihir_the_windlord.lua"
 	CARD.Name = "ce_expansion_magic_ltr_gwaihir_the_windlord"
@@ -50514,6 +50806,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_haradrim_spearmaster_1c9a2cd3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_haradrim_spearmaster_1c9a2cd3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_haradrim_spearmaster"
@@ -50620,6 +50913,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_haradrim_spearmaster.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_haradrim_spearmaster.lua"
 	CARD.Name = "ce_expansion_magic_ltr_haradrim_spearmaster"
@@ -50821,6 +51115,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_haunt_of_the_dead_marshes_999299b9.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_haunt_of_the_dead_marshes_999299b9.lua"
 	CARD.Name = "ce_expansion_magic_ltr_haunt_of_the_dead_marshes"
@@ -50923,6 +51218,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_haunt_of_the_dead_marshes.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_haunt_of_the_dead_marshes.lua"
 	CARD.Name = "ce_expansion_magic_ltr_haunt_of_the_dead_marshes"
@@ -51120,6 +51416,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hew_the_entwood_5622b658.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hew_the_entwood_5622b658.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hew_the_entwood"
@@ -51226,6 +51523,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hew_the_entwood_5898a4b3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hew_the_entwood_5898a4b3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hew_the_entwood"
@@ -51388,6 +51686,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hew_the_entwood_ab2746ad.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hew_the_entwood_ab2746ad.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hew_the_entwood"
@@ -51494,6 +51793,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hew_the_entwood.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hew_the_entwood.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hew_the_entwood"
@@ -51695,6 +51995,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hithlain_knots_93f69e15.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hithlain_knots_93f69e15.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hithlain_knots"
@@ -51797,6 +52098,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hithlain_knots.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hithlain_knots.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hithlain_knots"
@@ -51994,6 +52296,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hobbit_s_sting_6a111f28.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hobbit_s_sting_6a111f28.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hobbit_s_sting"
@@ -52116,6 +52419,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_hobbit_s_sting.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_hobbit_s_sting.lua"
 	CARD.Name = "ce_expansion_magic_ltr_hobbit_s_sting"
@@ -52333,6 +52637,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_gondor_1a64b06f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_gondor_1a64b06f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_gondor"
@@ -52480,6 +52785,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_gondor_d92a2ac4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_gondor_d92a2ac4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_gondor"
@@ -52571,6 +52877,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_gondor.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_gondor.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_gondor"
@@ -52757,6 +53064,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_the_mark_32417cb4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_the_mark_32417cb4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_the_mark"
@@ -52859,6 +53167,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_the_mark_f1588053.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_the_mark_f1588053.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_the_mark"
@@ -53017,6 +53326,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horn_of_the_mark.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horn_of_the_mark.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horn_of_the_mark"
@@ -53214,6 +53524,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horses_of_the_bruinen_c7dd4a8c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horses_of_the_bruinen_c7dd4a8c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horses_of_the_bruinen"
@@ -53332,6 +53643,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_horses_of_the_bruinen.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_horses_of_the_bruinen.lua"
 	CARD.Name = "ce_expansion_magic_ltr_horses_of_the_bruinen"
@@ -53545,6 +53857,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_improvised_club_97e434e4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_improvised_club_97e434e4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_improvised_club"
@@ -53641,6 +53954,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_improvised_club.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_improvised_club.lua"
 	CARD.Name = "ce_expansion_magic_ltr_improvised_club"
@@ -53832,6 +54146,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_inherited_envelope_e7c42121.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_inherited_envelope_e7c42121.lua"
 	CARD.Name = "ce_expansion_magic_ltr_inherited_envelope"
@@ -53952,6 +54267,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_inherited_envelope.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_inherited_envelope.lua"
 	CARD.Name = "ce_expansion_magic_ltr_inherited_envelope"
@@ -54167,6 +54483,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ioreth_of_the_healing_house_6bdc7add.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ioreth_of_the_healing_house_6bdc7add.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ioreth_of_the_healing_house"
@@ -54268,6 +54585,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ioreth_of_the_healing_house.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ioreth_of_the_healing_house.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ioreth_of_the_healing_house"
@@ -54464,6 +54782,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_isildur_s_fateful_strike_07bec9ea.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_isildur_s_fateful_strike_07bec9ea.lua"
 	CARD.Name = "ce_expansion_magic_ltr_isildur_s_fateful_strike"
@@ -54632,6 +54951,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_isildur_s_fateful_strike_3dcc45f7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_isildur_s_fateful_strike_3dcc45f7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_isildur_s_fateful_strike"
@@ -54744,6 +55064,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_isildur_s_fateful_strike.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_isildur_s_fateful_strike.lua"
 	CARD.Name = "ce_expansion_magic_ltr_isildur_s_fateful_strike"
@@ -54951,6 +55272,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_island_2f651df6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_island_2f651df6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_island"
@@ -55382,6 +55704,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_island_5e2508c2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_island_5e2508c2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_island"
@@ -55813,6 +56136,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_island_fdbb217f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_island_fdbb217f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_island"
@@ -56244,6 +56568,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_island.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_island.lua"
 	CARD.Name = "ce_expansion_magic_ltr_island"
@@ -56675,6 +57000,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_isolation_at_orthanc_97d9fdd4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_isolation_at_orthanc_97d9fdd4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_isolation_at_orthanc"
@@ -56781,6 +57107,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_isolation_at_orthanc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_isolation_at_orthanc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_isolation_at_orthanc"
@@ -56982,6 +57309,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ithilien_kingfisher_23eb744e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ithilien_kingfisher_23eb744e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ithilien_kingfisher"
@@ -57083,6 +57411,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ithilien_kingfisher.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ithilien_kingfisher.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ithilien_kingfisher"
@@ -57279,6 +57608,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_king_of_the_oathbreakers_2f9f325c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_king_of_the_oathbreakers_2f9f325c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_king_of_the_oathbreakers"
@@ -57482,6 +57812,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_king_of_the_oathbreakers_689162d7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_king_of_the_oathbreakers_689162d7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_king_of_the_oathbreakers"
@@ -57629,6 +57960,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_king_of_the_oathbreakers.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_king_of_the_oathbreakers.lua"
 	CARD.Name = "ce_expansion_magic_ltr_king_of_the_oathbreakers"
@@ -57871,6 +58203,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_knight_of_the_keep.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_knight_of_the_keep.lua"
 	CARD.Name = "ce_expansion_magic_ltr_knight_of_the_keep"
@@ -58069,6 +58402,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_knights_of_dol_amroth_ab57941e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_knights_of_dol_amroth_ab57941e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_knights_of_dol_amroth"
@@ -58176,6 +58510,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_knights_of_dol_amroth_def7ca0c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_knights_of_dol_amroth_def7ca0c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_knights_of_dol_amroth"
@@ -58377,6 +58712,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_knights_of_dol_amroth.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_knights_of_dol_amroth.lua"
 	CARD.Name = "ce_expansion_magic_ltr_knights_of_dol_amroth"
@@ -58579,6 +58915,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_l_rien_revealed_465d2d98.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_l_rien_revealed_465d2d98.lua"
 	CARD.Name = "ce_expansion_magic_ltr_l_rien_revealed"
@@ -58685,6 +59022,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_l_rien_revealed.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_l_rien_revealed.lua"
 	CARD.Name = "ce_expansion_magic_ltr_l_rien_revealed"
@@ -58886,6 +59224,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_landroval_horizon_witness_829d6a78.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_landroval_horizon_witness_829d6a78.lua"
 	CARD.Name = "ce_expansion_magic_ltr_landroval_horizon_witness"
@@ -58997,6 +59336,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_landroval_horizon_witness.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_landroval_horizon_witness.lua"
 	CARD.Name = "ce_expansion_magic_ltr_landroval_horizon_witness"
@@ -59203,6 +59543,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lash_of_the_balrog_21262104.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lash_of_the_balrog_21262104.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lash_of_the_balrog"
@@ -59314,6 +59655,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lash_of_the_balrog_7b268e07.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lash_of_the_balrog_7b268e07.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lash_of_the_balrog"
@@ -59519,6 +59861,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lash_of_the_balrog.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lash_of_the_balrog.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lash_of_the_balrog"
@@ -59725,6 +60068,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_last_march_of_the_ents_2ee68341.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_last_march_of_the_ents_2ee68341.lua"
 	CARD.Name = "ce_expansion_magic_ltr_last_march_of_the_ents"
@@ -59915,6 +60259,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_last_march_of_the_ents_7b4ce12c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_last_march_of_the_ents_7b4ce12c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_last_march_of_the_ents"
@@ -60011,6 +60356,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_last_march_of_the_ents_e0aa2b70.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_last_march_of_the_ents_e0aa2b70.lua"
 	CARD.Name = "ce_expansion_magic_ltr_last_march_of_the_ents"
@@ -60106,6 +60452,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_last_march_of_the_ents.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_last_march_of_the_ents.lua"
 	CARD.Name = "ce_expansion_magic_ltr_last_march_of_the_ents"
@@ -60297,6 +60644,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_counter_of_kills_42ceb539.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_counter_of_kills_42ceb539.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_counter_of_kills"
@@ -60408,6 +60756,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_counter_of_kills_44bf7a1d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_counter_of_kills_44bf7a1d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_counter_of_kills"
@@ -60613,6 +60962,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_counter_of_kills.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_counter_of_kills.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_counter_of_kills"
@@ -60819,6 +61169,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_master_archer_5eabb6f7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_master_archer_5eabb6f7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_master_archer"
@@ -60937,6 +61288,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_master_archer_b59020a7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_master_archer_b59020a7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_master_archer"
@@ -61150,6 +61502,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_master_archer_e2fced30.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_master_archer_e2fced30.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_master_archer"
@@ -61363,6 +61716,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_legolas_master_archer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_legolas_master_archer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_legolas_master_archer"
@@ -61576,6 +61930,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lembas_93369a24.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lembas_93369a24.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lembas"
@@ -61691,6 +62046,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lembas.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lembas.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lembas"
@@ -61901,6 +62257,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lobelia_sackville_baggins_146ad677.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lobelia_sackville_baggins_146ad677.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lobelia_sackville_baggins"
@@ -62067,6 +62424,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lobelia_sackville_baggins_850cc9ab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lobelia_sackville_baggins_850cc9ab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lobelia_sackville_baggins"
@@ -62177,6 +62535,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lobelia_sackville_baggins_c811e1fe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lobelia_sackville_baggins_c811e1fe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lobelia_sackville_baggins"
@@ -62382,6 +62741,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lobelia_sackville_baggins.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lobelia_sackville_baggins.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lobelia_sackville_baggins"
@@ -62587,6 +62947,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_long_list_of_the_ents_39988807.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_long_list_of_the_ents_39988807.lua"
 	CARD.Name = "ce_expansion_magic_ltr_long_list_of_the_ents"
@@ -62677,6 +63038,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_long_list_of_the_ents.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_long_list_of_the_ents.lua"
 	CARD.Name = "ce_expansion_magic_ltr_long_list_of_the_ents"
@@ -62862,6 +63224,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lost_isle_calling_310c81ee.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lost_isle_calling_310c81ee.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lost_isle_calling"
@@ -63050,6 +63413,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lost_isle_calling_7c61c622.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lost_isle_calling_7c61c622.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lost_isle_calling"
@@ -63144,6 +63508,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lost_isle_calling.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lost_isle_calling.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lost_isle_calling"
@@ -63333,6 +63698,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lost_to_legend_7d2139d1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lost_to_legend_7d2139d1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lost_to_legend"
@@ -63443,6 +63809,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lost_to_legend.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lost_to_legend.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lost_to_legend"
@@ -63648,6 +64015,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lothl_rien_lookout_4bac4d72.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lothl_rien_lookout_4bac4d72.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lothl_rien_lookout"
@@ -63750,6 +64118,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lothl_rien_lookout.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lothl_rien_lookout.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lothl_rien_lookout"
@@ -63947,6 +64316,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lotho_corrupt_shirriff_8a789fb5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lotho_corrupt_shirriff_8a789fb5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lotho_corrupt_shirriff"
@@ -64059,6 +64429,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lotho_corrupt_shirriff_c67a223f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lotho_corrupt_shirriff_c67a223f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lotho_corrupt_shirriff"
@@ -64227,6 +64598,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_lotho_corrupt_shirriff.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_lotho_corrupt_shirriff.lua"
 	CARD.Name = "ce_expansion_magic_ltr_lotho_corrupt_shirriff"
@@ -64434,6 +64806,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_many_partings_cb107be5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_many_partings_cb107be5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_many_partings"
@@ -64647,6 +65020,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_many_partings_f4e2757d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_many_partings_f4e2757d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_many_partings"
@@ -64766,6 +65140,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_many_partings.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_many_partings.lua"
 	CARD.Name = "ce_expansion_magic_ltr_many_partings"
@@ -64980,6 +65355,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_march_from_the_black_gate_e766604a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_march_from_the_black_gate_e766604a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_march_from_the_black_gate"
@@ -65098,6 +65474,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_march_from_the_black_gate.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_march_from_the_black_gate.lua"
 	CARD.Name = "ce_expansion_magic_ltr_march_from_the_black_gate"
@@ -65311,6 +65688,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mauh_r_uruk_hai_captain_735c85b6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mauh_r_uruk_hai_captain_735c85b6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mauh_r_uruk_hai_captain"
@@ -65420,6 +65798,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mauh_r_uruk_hai_captain.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mauh_r_uruk_hai_captain.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mauh_r_uruk_hai_captain"
@@ -65624,6 +66003,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_meneldor_swift_savior_df4e13a7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_meneldor_swift_savior_df4e13a7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_meneldor_swift_savior"
@@ -65739,6 +66119,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_meneldor_swift_savior.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_meneldor_swift_savior.lua"
 	CARD.Name = "ce_expansion_magic_ltr_meneldor_swift_savior"
@@ -65949,6 +66330,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_meriadoc_brandybuck_0915bcff.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_meriadoc_brandybuck_0915bcff.lua"
 	CARD.Name = "ce_expansion_magic_ltr_meriadoc_brandybuck"
@@ -66176,6 +66558,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_meriadoc_brandybuck_4f7496b6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_meriadoc_brandybuck_4f7496b6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_meriadoc_brandybuck"
@@ -66309,6 +66692,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_meriadoc_brandybuck.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_meriadoc_brandybuck.lua"
 	CARD.Name = "ce_expansion_magic_ltr_meriadoc_brandybuck"
@@ -66537,6 +66921,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_merry_esquire_of_rohan_38390187.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_merry_esquire_of_rohan_38390187.lua"
 	CARD.Name = "ce_expansion_magic_ltr_merry_esquire_of_rohan"
@@ -66744,6 +67129,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_merry_esquire_of_rohan_940833ea.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_merry_esquire_of_rohan_940833ea.lua"
 	CARD.Name = "ce_expansion_magic_ltr_merry_esquire_of_rohan"
@@ -66857,6 +67243,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_merry_esquire_of_rohan_9a6fb5e6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_merry_esquire_of_rohan_9a6fb5e6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_merry_esquire_of_rohan"
@@ -67064,6 +67451,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_merry_esquire_of_rohan.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_merry_esquire_of_rohan.lua"
 	CARD.Name = "ce_expansion_magic_ltr_merry_esquire_of_rohan"
@@ -67272,6 +67660,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith_abda9a6b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith_abda9a6b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith"
@@ -67467,6 +67856,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith_b96a91c9.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith_b96a91c9.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith"
@@ -67568,6 +67958,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith_d055bdd1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith_d055bdd1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith"
@@ -67763,6 +68154,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith_garrison_fb469a1c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith_garrison_fb469a1c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith_garrison"
@@ -67860,6 +68252,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith_garrison.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith_garrison.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith_garrison"
@@ -67957,6 +68350,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_minas_tirith.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_minas_tirith.lua"
 	CARD.Name = "ce_expansion_magic_ltr_minas_tirith"
@@ -68153,6 +68547,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mines_of_moria_8316bc23.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mines_of_moria_8316bc23.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mines_of_moria"
@@ -68347,6 +68742,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mines_of_moria_df08da2e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mines_of_moria_df08da2e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mines_of_moria"
@@ -68447,6 +68843,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mines_of_moria.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mines_of_moria.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mines_of_moria"
@@ -68642,6 +69039,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_bats_3fd733a1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_bats_3fd733a1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_bats"
@@ -68838,6 +69236,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_bats_4657d42b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_bats_4657d42b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_bats"
@@ -68940,6 +69339,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_bats.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_bats.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_bats"
@@ -69137,6 +69537,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_channeler_97c6a5be.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_channeler_97c6a5be.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_channeler"
@@ -69235,6 +69636,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_channeler.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_channeler.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_channeler"
@@ -69333,6 +69735,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_spider_07bf6eba.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_spider_07bf6eba.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_spider"
@@ -69434,6 +69837,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirkwood_spider.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirkwood_spider.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirkwood_spider"
@@ -69630,6 +70034,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirror_of_galadriel_f79a7afc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirror_of_galadriel_f79a7afc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirror_of_galadriel"
@@ -69716,6 +70121,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirror_of_galadriel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirror_of_galadriel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirror_of_galadriel"
@@ -69897,6 +70303,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirrormere_guardian_b64f530f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirrormere_guardian_b64f530f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirrormere_guardian"
@@ -70033,6 +70440,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mirrormere_guardian.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mirrormere_guardian.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mirrormere_guardian"
@@ -70264,6 +70672,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mithril_coat_acbf3b59.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mithril_coat_acbf3b59.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mithril_coat"
@@ -70372,6 +70781,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mithril_coat_d7f789a6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mithril_coat_d7f789a6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mithril_coat"
@@ -70536,6 +70946,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mithril_coat.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mithril_coat.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mithril_coat"
@@ -70739,6 +71150,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mordor_muster_a496599f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mordor_muster_a496599f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mordor_muster"
@@ -70865,6 +71277,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mordor_muster.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mordor_muster.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mordor_muster"
@@ -71086,6 +71499,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mordor_trebuchet_b6c6808b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mordor_trebuchet_b6c6808b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mordor_trebuchet"
@@ -71193,6 +71607,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mordor_trebuchet.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mordor_trebuchet.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mordor_trebuchet"
@@ -71395,6 +71810,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_morgul_knife_wound_9328eb15.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_morgul_knife_wound_9328eb15.lua"
 	CARD.Name = "ce_expansion_magic_ltr_morgul_knife_wound"
@@ -71504,6 +71920,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_morgul_knife_wound.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_morgul_knife_wound.lua"
 	CARD.Name = "ce_expansion_magic_ltr_morgul_knife_wound"
@@ -71708,6 +72125,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_moria_marauder_27044b22.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_moria_marauder_27044b22.lua"
 	CARD.Name = "ce_expansion_magic_ltr_moria_marauder"
@@ -71815,6 +72233,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_moria_marauder_734018f2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_moria_marauder_734018f2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_moria_marauder"
@@ -71978,6 +72397,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_moria_marauder.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_moria_marauder.lua"
 	CARD.Name = "ce_expansion_magic_ltr_moria_marauder"
@@ -72180,6 +72600,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mount_doom_24172c7e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mount_doom_24172c7e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mount_doom"
@@ -72278,6 +72699,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mount_doom_6d240b2a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mount_doom_6d240b2a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mount_doom"
@@ -72471,6 +72893,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mount_doom_8230fc74.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mount_doom_8230fc74.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mount_doom"
@@ -72569,6 +72992,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mount_doom.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mount_doom.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mount_doom"
@@ -72762,6 +73186,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mountain_901ef08a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mountain_901ef08a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mountain"
@@ -73199,6 +73624,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mountain_b5f82f8c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mountain_b5f82f8c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mountain"
@@ -73636,6 +74062,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mountain_c4366efe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mountain_c4366efe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mountain"
@@ -74073,6 +74500,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mountain.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mountain.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mountain"
@@ -74510,6 +74938,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mushroom_watchdogs_6e68599f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mushroom_watchdogs_6e68599f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mushroom_watchdogs"
@@ -74637,6 +75066,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_mushroom_watchdogs.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_mushroom_watchdogs.lua"
 	CARD.Name = "ce_expansion_magic_ltr_mushroom_watchdogs"
@@ -74859,6 +75289,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nasty_end_28301d12.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nasty_end_28301d12.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nasty_end"
@@ -75050,6 +75481,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nasty_end_d4cf4b4b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nasty_end_d4cf4b4b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nasty_end"
@@ -75147,6 +75579,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nasty_end.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nasty_end.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nasty_end"
@@ -75339,6 +75772,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_17fead36.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_17fead36.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -75494,6 +75928,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_1e4cc932.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_1e4cc932.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -75649,6 +76084,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_2130e5e9.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_2130e5e9.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -75873,6 +76309,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_26571988.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_26571988.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76028,6 +76465,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_2c0b0f9b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_2c0b0f9b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76183,6 +76621,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_367623ee.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_367623ee.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76407,6 +76846,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_9047df82.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_9047df82.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76562,6 +77002,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_af4a4173.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_af4a4173.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76717,6 +77158,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_b5e8cb5b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_b5e8cb5b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -76941,6 +77383,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_b92f4cc0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_b92f4cc0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -77096,6 +77539,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_d07de672.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_d07de672.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -77251,6 +77695,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_d572f106.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_d572f106.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -77475,6 +77920,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_ebd6688d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_ebd6688d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -77699,6 +78145,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_f4d66d6e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_f4d66d6e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -77923,6 +78370,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_f64573bb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_f64573bb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -78147,6 +78595,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_f9709058.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_f9709058.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -78371,6 +78820,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l_ff5a88eb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l_ff5a88eb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -78526,6 +78976,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nazg_l.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nazg_l.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nazg_l"
@@ -78776,6 +79227,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nimble_hobbit_86bb3e99.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nimble_hobbit_86bb3e99.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nimble_hobbit"
@@ -78908,6 +79360,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nimble_hobbit.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nimble_hobbit.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nimble_hobbit"
@@ -79135,6 +79588,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nimrodel_watcher_31fdaa31.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nimrodel_watcher_31fdaa31.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nimrodel_watcher"
@@ -79247,6 +79701,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_nimrodel_watcher.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_nimrodel_watcher.lua"
 	CARD.Name = "ce_expansion_magic_ltr_nimrodel_watcher"
@@ -79454,6 +79909,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_now_for_wrath_now_for_ruin_f17eebc0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_now_for_wrath_now_for_ruin_f17eebc0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_now_for_wrath_now_for_ruin"
@@ -79580,6 +80036,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_now_for_wrath_now_for_ruin.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_now_for_wrath_now_for_ruin.lua"
 	CARD.Name = "ce_expansion_magic_ltr_now_for_wrath_now_for_ruin"
@@ -79801,6 +80258,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_oath_of_the_grey_host_d38616ad.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_oath_of_the_grey_host_d38616ad.lua"
 	CARD.Name = "ce_expansion_magic_ltr_oath_of_the_grey_host"
@@ -79913,6 +80371,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_oath_of_the_grey_host.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_oath_of_the_grey_host.lua"
 	CARD.Name = "ce_expansion_magic_ltr_oath_of_the_grey_host"
@@ -80120,6 +80579,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_old_man_willow_284b44a2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_old_man_willow_284b44a2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_old_man_willow"
@@ -80227,6 +80687,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_old_man_willow.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_old_man_willow.lua"
 	CARD.Name = "ce_expansion_magic_ltr_old_man_willow"
@@ -80429,6 +80890,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_oliphaunt_2c1ce914.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_oliphaunt_2c1ce914.lua"
 	CARD.Name = "ce_expansion_magic_ltr_oliphaunt"
@@ -80544,6 +81006,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_oliphaunt_78cacd78.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_oliphaunt_78cacd78.lua"
 	CARD.Name = "ce_expansion_magic_ltr_oliphaunt"
@@ -80754,6 +81217,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_oliphaunt.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_oliphaunt.lua"
 	CARD.Name = "ce_expansion_magic_ltr_oliphaunt"
@@ -80964,6 +81428,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_olog_hai_crusher_385f7525.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_olog_hai_crusher_385f7525.lua"
 	CARD.Name = "ce_expansion_magic_ltr_olog_hai_crusher"
@@ -81080,6 +81545,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_olog_hai_crusher.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_olog_hai_crusher.lua"
 	CARD.Name = "ce_expansion_magic_ltr_olog_hai_crusher"
@@ -81291,6 +81757,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_omer_marshal_of_rohan_5f3853da.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_omer_marshal_of_rohan_5f3853da.lua"
 	CARD.Name = "ce_expansion_magic_ltr_omer_marshal_of_rohan"
@@ -81404,6 +81871,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_omer_marshal_of_rohan_6d74c11b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_omer_marshal_of_rohan_6d74c11b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_omer_marshal_of_rohan"
@@ -81611,6 +82079,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_omer_marshal_of_rohan.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_omer_marshal_of_rohan.lua"
 	CARD.Name = "ce_expansion_magic_ltr_omer_marshal_of_rohan"
@@ -81819,6 +82288,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_omer_of_the_riddermark_7ed4d550.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_omer_of_the_riddermark_7ed4d550.lua"
 	CARD.Name = "ce_expansion_magic_ltr_omer_of_the_riddermark"
@@ -81920,6 +82390,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_omer_of_the_riddermark.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_omer_of_the_riddermark.lua"
 	CARD.Name = "ce_expansion_magic_ltr_omer_of_the_riddermark"
@@ -82116,6 +82587,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_one_ring_to_rule_them_all_e6abfe35.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_one_ring_to_rule_them_all_e6abfe35.lua"
 	CARD.Name = "ce_expansion_magic_ltr_one_ring_to_rule_them_all"
@@ -82241,6 +82713,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_one_ring_to_rule_them_all.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_one_ring_to_rule_them_all.lua"
 	CARD.Name = "ce_expansion_magic_ltr_one_ring_to_rule_them_all"
@@ -82461,6 +82934,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_orcish_bowmasters_8259a16f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_orcish_bowmasters_8259a16f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_orcish_bowmasters"
@@ -82578,6 +83052,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_orcish_bowmasters_a2a4a4b6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_orcish_bowmasters_a2a4a4b6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_orcish_bowmasters"
@@ -82790,6 +83265,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_orcish_bowmasters.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_orcish_bowmasters.lua"
 	CARD.Name = "ce_expansion_magic_ltr_orcish_bowmasters"
@@ -83002,6 +83478,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_orcish_medicine_fadf5b91.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_orcish_medicine_fadf5b91.lua"
 	CARD.Name = "ce_expansion_magic_ltr_orcish_medicine"
@@ -83127,6 +83604,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_orcish_medicine.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_orcish_medicine.lua"
 	CARD.Name = "ce_expansion_magic_ltr_orcish_medicine"
@@ -83347,6 +83825,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_owyn_fearless_knight_90ceec95.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_owyn_fearless_knight_90ceec95.lua"
 	CARD.Name = "ce_expansion_magic_ltr_owyn_fearless_knight"
@@ -83552,6 +84031,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_owyn_fearless_knight_9e37e497.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_owyn_fearless_knight_9e37e497.lua"
 	CARD.Name = "ce_expansion_magic_ltr_owyn_fearless_knight"
@@ -83663,6 +84143,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_owyn_fearless_knight.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_owyn_fearless_knight.lua"
 	CARD.Name = "ce_expansion_magic_ltr_owyn_fearless_knight"
@@ -83869,6 +84350,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_owyn_lady_of_rohan_370f777e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_owyn_lady_of_rohan_370f777e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_owyn_lady_of_rohan"
@@ -83979,6 +84461,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_owyn_lady_of_rohan.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_owyn_lady_of_rohan.lua"
 	CARD.Name = "ce_expansion_magic_ltr_owyn_lady_of_rohan"
@@ -84184,6 +84667,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_palant_r_of_orthanc_18657558.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_palant_r_of_orthanc_18657558.lua"
 	CARD.Name = "ce_expansion_magic_ltr_palant_r_of_orthanc"
@@ -84279,6 +84763,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_palant_r_of_orthanc_2f36390f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_palant_r_of_orthanc_2f36390f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_palant_r_of_orthanc"
@@ -84430,6 +84915,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_palant_r_of_orthanc_ef320f81.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_palant_r_of_orthanc_ef320f81.lua"
 	CARD.Name = "ce_expansion_magic_ltr_palant_r_of_orthanc"
@@ -84525,6 +85011,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_palant_r_of_orthanc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_palant_r_of_orthanc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_palant_r_of_orthanc"
@@ -84715,6 +85202,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pelargir_survivor_78a52f14.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pelargir_survivor_78a52f14.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pelargir_survivor"
@@ -84817,6 +85305,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pelargir_survivor.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pelargir_survivor.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pelargir_survivor"
@@ -85014,6 +85503,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_peregrin_took_12c76296.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_peregrin_took_12c76296.lua"
 	CARD.Name = "ce_expansion_magic_ltr_peregrin_took"
@@ -85151,6 +85641,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_peregrin_took_290ebe66.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_peregrin_took_290ebe66.lua"
 	CARD.Name = "ce_expansion_magic_ltr_peregrin_took"
@@ -85382,6 +85873,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_peregrin_took.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_peregrin_took.lua"
 	CARD.Name = "ce_expansion_magic_ltr_peregrin_took"
@@ -85614,6 +86106,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_phial_of_galadriel_6e0a562b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_phial_of_galadriel_6e0a562b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_phial_of_galadriel"
@@ -85788,6 +86281,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_phial_of_galadriel_af7179f1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_phial_of_galadriel_af7179f1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_phial_of_galadriel"
@@ -85906,6 +86400,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_phial_of_galadriel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_phial_of_galadriel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_phial_of_galadriel"
@@ -86119,6 +86614,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_guard_of_the_citadel_3f4962ab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_guard_of_the_citadel_3f4962ab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_guard_of_the_citadel"
@@ -86326,6 +86822,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_guard_of_the_citadel_44471856.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_guard_of_the_citadel_44471856.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_guard_of_the_citadel"
@@ -86439,6 +86936,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_guard_of_the_citadel_9f2b4b35.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_guard_of_the_citadel_9f2b4b35.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_guard_of_the_citadel"
@@ -86646,6 +87144,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_guard_of_the_citadel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_guard_of_the_citadel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_guard_of_the_citadel"
@@ -86854,6 +87353,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_s_bravery_402619ec.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_s_bravery_402619ec.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_s_bravery"
@@ -87083,6 +87583,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_s_bravery_c86df399.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_s_bravery_c86df399.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_s_bravery"
@@ -87218,6 +87719,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_pippin_s_bravery.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_pippin_s_bravery.lua"
 	CARD.Name = "ce_expansion_magic_ltr_pippin_s_bravery"
@@ -87448,6 +87950,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_plains_1d15c0bd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_plains_1d15c0bd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_plains"
@@ -87877,6 +88380,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_plains_df7bfa65.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_plains_df7bfa65.lua"
 	CARD.Name = "ce_expansion_magic_ltr_plains"
@@ -88306,6 +88810,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_plains_fa851e3b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_plains_fa851e3b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_plains"
@@ -88735,6 +89240,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_plains.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_plains.lua"
 	CARD.Name = "ce_expansion_magic_ltr_plains"
@@ -89164,6 +89670,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_press_the_enemy_40530488.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_press_the_enemy_40530488.lua"
 	CARD.Name = "ce_expansion_magic_ltr_press_the_enemy"
@@ -89281,6 +89788,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_press_the_enemy_d24d96ba.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_press_the_enemy_d24d96ba.lua"
 	CARD.Name = "ce_expansion_magic_ltr_press_the_enemy"
@@ -89454,6 +89962,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_press_the_enemy.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_press_the_enemy.lua"
 	CARD.Name = "ce_expansion_magic_ltr_press_the_enemy"
@@ -89666,6 +90175,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_prince_imrahil_the_fair_3eeba5ce.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_prince_imrahil_the_fair_3eeba5ce.lua"
 	CARD.Name = "ce_expansion_magic_ltr_prince_imrahil_the_fair"
@@ -89864,6 +90374,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_prince_imrahil_the_fair_7de65816.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_prince_imrahil_the_fair_7de65816.lua"
 	CARD.Name = "ce_expansion_magic_ltr_prince_imrahil_the_fair"
@@ -89968,6 +90479,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_prince_imrahil_the_fair.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_prince_imrahil_the_fair.lua"
 	CARD.Name = "ce_expansion_magic_ltr_prince_imrahil_the_fair"
@@ -90167,6 +90679,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_protector_of_gondor_5e590137.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_protector_of_gondor_5e590137.lua"
 	CARD.Name = "ce_expansion_magic_ltr_protector_of_gondor"
@@ -90273,6 +90786,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_protector_of_gondor.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_protector_of_gondor.lua"
 	CARD.Name = "ce_expansion_magic_ltr_protector_of_gondor"
@@ -90474,6 +90988,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_quarrel_s_end_4f5b4727.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_quarrel_s_end_4f5b4727.lua"
 	CARD.Name = "ce_expansion_magic_ltr_quarrel_s_end"
@@ -90570,6 +91085,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_quarrel_s_end.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_quarrel_s_end.lua"
 	CARD.Name = "ce_expansion_magic_ltr_quarrel_s_end"
@@ -90761,6 +91277,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_quickbeam_upstart_ent_50ebdb5f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_quickbeam_upstart_ent_50ebdb5f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_quickbeam_upstart_ent"
@@ -90956,6 +91473,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_quickbeam_upstart_ent_b6f0f007.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_quickbeam_upstart_ent_b6f0f007.lua"
 	CARD.Name = "ce_expansion_magic_ltr_quickbeam_upstart_ent"
@@ -91057,6 +91575,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_quickbeam_upstart_ent.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_quickbeam_upstart_ent.lua"
 	CARD.Name = "ce_expansion_magic_ltr_quickbeam_upstart_ent"
@@ -91253,6 +91772,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_radagast_the_brown_1d5e65f8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_radagast_the_brown_1d5e65f8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_radagast_the_brown"
@@ -91368,6 +91888,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_radagast_the_brown_3f186445.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_radagast_the_brown_3f186445.lua"
 	CARD.Name = "ce_expansion_magic_ltr_radagast_the_brown"
@@ -91483,6 +92004,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_radagast_the_brown_52679c31.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_radagast_the_brown_52679c31.lua"
 	CARD.Name = "ce_expansion_magic_ltr_radagast_the_brown"
@@ -91654,6 +92176,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_radagast_the_brown.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_radagast_the_brown.lua"
 	CARD.Name = "ce_expansion_magic_ltr_radagast_the_brown"
@@ -91864,6 +92387,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rally_at_the_hornburg_36bcf31f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rally_at_the_hornburg_36bcf31f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rally_at_the_hornburg"
@@ -91960,6 +92484,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rally_at_the_hornburg.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rally_at_the_hornburg.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rally_at_the_hornburg"
@@ -92151,6 +92676,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ranger_s_firebrand_18b14e9d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ranger_s_firebrand_18b14e9d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ranger_s_firebrand"
@@ -92269,6 +92795,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ranger_s_firebrand.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ranger_s_firebrand.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ranger_s_firebrand"
@@ -92482,6 +93009,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rangers_of_ithilien_764a0081.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rangers_of_ithilien_764a0081.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rangers_of_ithilien"
@@ -92681,6 +93209,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rangers_of_ithilien_d8c92981.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rangers_of_ithilien_d8c92981.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rangers_of_ithilien"
@@ -92824,6 +93353,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rangers_of_ithilien.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rangers_of_ithilien.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rangers_of_ithilien"
@@ -93062,6 +93592,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_relentless_rohirrim_5c653b2e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_relentless_rohirrim_5c653b2e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_relentless_rohirrim"
@@ -93198,6 +93729,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_relentless_rohirrim.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_relentless_rohirrim.lua"
 	CARD.Name = "ce_expansion_magic_ltr_relentless_rohirrim"
@@ -93429,6 +93961,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_reprieve_9422afca.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_reprieve_9422afca.lua"
 	CARD.Name = "ce_expansion_magic_ltr_reprieve"
@@ -93523,6 +94056,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_reprieve.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_reprieve.lua"
 	CARD.Name = "ce_expansion_magic_ltr_reprieve"
@@ -93712,6 +94246,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_revive_the_shire_e71d38d2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_revive_the_shire_e71d38d2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_revive_the_shire"
@@ -93830,6 +94365,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_revive_the_shire.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_revive_the_shire.lua"
 	CARD.Name = "ce_expansion_magic_ltr_revive_the_shire"
@@ -94043,6 +94579,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_riders_of_the_mark_714b7dae.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_riders_of_the_mark_714b7dae.lua"
 	CARD.Name = "ce_expansion_magic_ltr_riders_of_the_mark"
@@ -94136,6 +94673,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_riders_of_the_mark.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_riders_of_the_mark.lua"
 	CARD.Name = "ce_expansion_magic_ltr_riders_of_the_mark"
@@ -94229,6 +94767,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ringsight_9f70848d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ringsight_9f70848d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ringsight"
@@ -94357,6 +94896,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ringsight.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ringsight.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ringsight"
@@ -94580,6 +95120,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ringwraiths_78f7193f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ringwraiths_78f7193f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ringwraiths"
@@ -94743,6 +95284,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ringwraiths.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ringwraiths.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ringwraiths"
@@ -94945,6 +95487,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rise_of_the_witch_king_18d76c8a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rise_of_the_witch_king_18d76c8a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rise_of_the_witch_king"
@@ -95049,6 +95592,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rise_of_the_witch_king.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rise_of_the_witch_king.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rise_of_the_witch_king"
@@ -95248,6 +95792,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rising_of_the_day_358d77ab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rising_of_the_day_358d77ab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rising_of_the_day"
@@ -95431,6 +95976,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rising_of_the_day_c99dcbab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rising_of_the_day_c99dcbab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rising_of_the_day"
@@ -95520,6 +96066,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rising_of_the_day.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rising_of_the_day.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rising_of_the_day"
@@ -95704,6 +96251,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rivendell_0470e1e4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rivendell_0470e1e4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rivendell"
@@ -95804,6 +96352,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rivendell_4c26e42b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rivendell_4c26e42b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rivendell"
@@ -95998,6 +96547,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rivendell.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rivendell.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rivendell"
@@ -96193,6 +96743,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rohirrim_lancer_067b1f96.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rohirrim_lancer_067b1f96.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rohirrim_lancer"
@@ -96325,6 +96876,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rohirrim_lancer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rohirrim_lancer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rohirrim_lancer"
@@ -96552,6 +97104,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rosie_cotton_of_south_lane_62ef9967.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rosie_cotton_of_south_lane_62ef9967.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rosie_cotton_of_south_lane"
@@ -96778,6 +97331,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rosie_cotton_of_south_lane_ff6e1437.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rosie_cotton_of_south_lane_ff6e1437.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rosie_cotton_of_south_lane"
@@ -96909,6 +97463,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rosie_cotton_of_south_lane.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rosie_cotton_of_south_lane.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rosie_cotton_of_south_lane"
@@ -97135,6 +97690,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rush_the_room_08d36a70.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rush_the_room_08d36a70.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rush_the_room"
@@ -97235,6 +97791,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_rush_the_room.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_rush_the_room.lua"
 	CARD.Name = "ce_expansion_magic_ltr_rush_the_room"
@@ -97430,6 +97987,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sam_s_desperate_rescue_47c467c8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sam_s_desperate_rescue_47c467c8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sam_s_desperate_rescue"
@@ -97556,6 +98114,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sam_s_desperate_rescue.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sam_s_desperate_rescue.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sam_s_desperate_rescue"
@@ -97777,6 +98336,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_gamgee_928d47dd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_gamgee_928d47dd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_gamgee"
@@ -97920,6 +98480,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_gamgee_95f8321c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_gamgee_95f8321c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_gamgee"
@@ -98158,6 +98719,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_gamgee.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_gamgee.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_gamgee"
@@ -98396,6 +98958,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_the_stouthearted_69bfce49.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_the_stouthearted_69bfce49.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_the_stouthearted"
@@ -98585,6 +99148,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_the_stouthearted_71f8f5c3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_the_stouthearted_71f8f5c3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_the_stouthearted"
@@ -98813,6 +99377,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_the_stouthearted_b8f208c1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_the_stouthearted_b8f208c1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_the_stouthearted"
@@ -98947,6 +99512,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_samwise_the_stouthearted.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_samwise_the_stouthearted.lua"
 	CARD.Name = "ce_expansion_magic_ltr_samwise_the_stouthearted"
@@ -99176,6 +99742,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saradoc_master_of_buckland_1718c75a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saradoc_master_of_buckland_1718c75a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saradoc_master_of_buckland"
@@ -99338,6 +99905,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saradoc_master_of_buckland.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saradoc_master_of_buckland.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saradoc_master_of_buckland"
@@ -99539,6 +100107,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_of_many_colors_0774a8b8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_of_many_colors_0774a8b8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_of_many_colors"
@@ -99676,6 +100245,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_of_many_colors_0acce785.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_of_many_colors_0acce785.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_of_many_colors"
@@ -99908,6 +100478,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_of_many_colors_844f717e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_of_many_colors_844f717e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_of_many_colors"
@@ -100045,6 +100616,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_of_many_colors_c3639b79.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_of_many_colors_c3639b79.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_of_many_colors"
@@ -100277,6 +100849,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_of_many_colors.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_of_many_colors.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_of_many_colors"
@@ -100509,6 +101082,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_s_trickery_ff0f862e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_s_trickery_ff0f862e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_s_trickery"
@@ -100627,6 +101201,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_s_trickery.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_s_trickery.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_s_trickery"
@@ -100840,6 +101415,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_the_white_11d591cd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_the_white_11d591cd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_the_white"
@@ -100975,6 +101551,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_saruman_the_white.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_saruman_the_white.lua"
 	CARD.Name = "ce_expansion_magic_ltr_saruman_the_white"
@@ -101205,6 +101782,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_s_ransom_7e18c48e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_s_ransom_7e18c48e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_s_ransom"
@@ -101340,6 +101918,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_s_ransom_e33efb95.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_s_ransom_e33efb95.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_s_ransom"
@@ -101531,6 +102110,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_s_ransom.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_s_ransom.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_s_ransom"
@@ -101761,6 +102341,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_dark_lord_a4df4328.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_dark_lord_a4df4328.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_dark_lord"
@@ -101929,6 +102510,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_dark_lord_a70c9646.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_dark_lord_a70c9646.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_dark_lord"
@@ -102192,6 +102774,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_dark_lord_d9fa4034.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_dark_lord_d9fa4034.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_dark_lord"
@@ -102360,6 +102943,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_dark_lord.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_dark_lord.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_dark_lord"
@@ -102623,6 +103207,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_lidless_eye_979f1f6c.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_lidless_eye_979f1f6c.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_lidless_eye"
@@ -102782,6 +103367,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_lidless_eye.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_lidless_eye.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_lidless_eye"
@@ -102980,6 +103566,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_necromancer_11ca4bdf.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_necromancer_11ca4bdf.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_necromancer"
@@ -103105,6 +103692,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_necromancer_c9aa6605.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_necromancer_c9aa6605.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_necromancer"
@@ -103325,6 +103913,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sauron_the_necromancer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sauron_the_necromancer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sauron_the_necromancer"
@@ -103545,6 +104134,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_scroll_of_isildur_8647944e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_scroll_of_isildur_8647944e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_scroll_of_isildur"
@@ -103678,6 +104268,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_scroll_of_isildur.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_scroll_of_isildur.lua"
 	CARD.Name = "ce_expansion_magic_ltr_scroll_of_isildur"
@@ -103906,6 +104497,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_second_breakfast_2b9a19c3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_second_breakfast_2b9a19c3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_second_breakfast"
@@ -104028,6 +104620,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_second_breakfast.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_second_breakfast.lua"
 	CARD.Name = "ce_expansion_magic_ltr_second_breakfast"
@@ -104245,6 +104838,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_of_the_enemy_297cb839.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_of_the_enemy_297cb839.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_of_the_enemy"
@@ -104449,6 +105043,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_of_the_enemy_a2b157fe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_of_the_enemy_a2b157fe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_of_the_enemy"
@@ -104558,6 +105153,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_of_the_enemy_c004f310.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_of_the_enemy_c004f310.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_of_the_enemy"
@@ -104668,6 +105264,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_of_the_enemy.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_of_the_enemy.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_of_the_enemy"
@@ -104873,6 +105470,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_summoning_78cad575.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_summoning_78cad575.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_summoning"
@@ -104963,6 +105561,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadow_summoning.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadow_summoning.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadow_summoning"
@@ -105148,6 +105747,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadowfax_lord_of_horses_bc248fd8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadowfax_lord_of_horses_bc248fd8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadowfax_lord_of_horses"
@@ -105271,6 +105871,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shadowfax_lord_of_horses.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shadowfax_lord_of_horses.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shadowfax_lord_of_horses"
@@ -105489,6 +106090,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shagrat_loot_bearer_1c2be3fe.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shagrat_loot_bearer_1c2be3fe.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shagrat_loot_bearer"
@@ -105688,6 +106290,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shagrat_loot_bearer_1d58c09e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shagrat_loot_bearer_1d58c09e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shagrat_loot_bearer"
@@ -105831,6 +106434,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shagrat_loot_bearer.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shagrat_loot_bearer.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shagrat_loot_bearer"
@@ -106069,6 +106673,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sharkey_tyrant_of_the_shire_43dc4dab.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sharkey_tyrant_of_the_shire_43dc4dab.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sharkey_tyrant_of_the_shire"
@@ -106200,6 +106805,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sharkey_tyrant_of_the_shire_7a1bb70e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sharkey_tyrant_of_the_shire_7a1bb70e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sharkey_tyrant_of_the_shire"
@@ -106387,6 +106993,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sharkey_tyrant_of_the_shire.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sharkey_tyrant_of_the_shire.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sharkey_tyrant_of_the_shire"
@@ -106613,6 +107220,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shelob_child_of_ungoliant_648bab02.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shelob_child_of_ungoliant_648bab02.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shelob_child_of_ungoliant"
@@ -106824,6 +107432,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shelob_child_of_ungoliant_b7213935.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shelob_child_of_ungoliant_b7213935.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shelob_child_of_ungoliant"
@@ -106979,6 +107588,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shelob_child_of_ungoliant.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shelob_child_of_ungoliant.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shelob_child_of_ungoliant"
@@ -107229,6 +107839,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shelob_s_ambush_6a5de1ec.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shelob_s_ambush_6a5de1ec.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shelob_s_ambush"
@@ -107347,6 +107958,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shelob_s_ambush.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shelob_s_ambush.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shelob_s_ambush"
@@ -107560,6 +108172,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_scarecrow_fc68b303.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_scarecrow_fc68b303.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_scarecrow"
@@ -107656,6 +108269,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_scarecrow.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_scarecrow.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_scarecrow"
@@ -107847,6 +108461,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_shirriff_4426dd14.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_shirriff_4426dd14.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_shirriff"
@@ -108050,6 +108665,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_shirriff_b06e9b8b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_shirriff_b06e9b8b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_shirriff"
@@ -108159,6 +108775,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_shirriff.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_shirriff.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_shirriff"
@@ -108363,6 +108980,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_terrace_ffaf5655.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_terrace_ffaf5655.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_terrace"
@@ -108453,6 +109071,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shire_terrace.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shire_terrace.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shire_terrace"
@@ -108638,6 +109257,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shortcut_to_mushrooms_03f9f5e4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shortcut_to_mushrooms_03f9f5e4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shortcut_to_mushrooms"
@@ -108763,6 +109383,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shortcut_to_mushrooms.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shortcut_to_mushrooms.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shortcut_to_mushrooms"
@@ -108983,6 +109604,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shower_of_arrows_a30b6eb2.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shower_of_arrows_a30b6eb2.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shower_of_arrows"
@@ -109083,6 +109705,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_shower_of_arrows.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_shower_of_arrows.lua"
 	CARD.Name = "ce_expansion_magic_ltr_shower_of_arrows"
@@ -109278,6 +109901,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_slip_on_the_ring_7d39233b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_slip_on_the_ring_7d39233b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_slip_on_the_ring"
@@ -109416,6 +110040,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_slip_on_the_ring.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_slip_on_the_ring.lua"
 	CARD.Name = "ce_expansion_magic_ltr_slip_on_the_ring"
@@ -109650,6 +110275,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sm_agol_helpful_guide_7570321f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sm_agol_helpful_guide_7570321f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sm_agol_helpful_guide"
@@ -109888,6 +110514,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sm_agol_helpful_guide_ed4690e8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sm_agol_helpful_guide_ed4690e8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sm_agol_helpful_guide"
@@ -110031,6 +110658,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sm_agol_helpful_guide.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sm_agol_helpful_guide.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sm_agol_helpful_guide"
@@ -110269,6 +110897,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_smite_the_deathless_4aa2eb9a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_smite_the_deathless_4aa2eb9a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_smite_the_deathless"
@@ -110383,6 +111012,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_smite_the_deathless.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_smite_the_deathless.lua"
 	CARD.Name = "ce_expansion_magic_ltr_smite_the_deathless"
@@ -110592,6 +111222,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_snarling_warg_005b6564.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_snarling_warg_005b6564.lua"
 	CARD.Name = "ce_expansion_magic_ltr_snarling_warg"
@@ -110697,6 +111328,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_snarling_warg.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_snarling_warg.lua"
 	CARD.Name = "ce_expansion_magic_ltr_snarling_warg"
@@ -110897,6 +111529,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_soldier_of_the_grey_host_dbf7302b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_soldier_of_the_grey_host_dbf7302b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_soldier_of_the_grey_host"
@@ -111003,6 +111636,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_soldier_of_the_grey_host.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_soldier_of_the_grey_host.lua"
 	CARD.Name = "ce_expansion_magic_ltr_soldier_of_the_grey_host"
@@ -111204,6 +111838,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_soothing_of_sm_agol_a5e88777.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_soothing_of_sm_agol_a5e88777.lua"
 	CARD.Name = "ce_expansion_magic_ltr_soothing_of_sm_agol"
@@ -111330,6 +111965,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_soothing_of_sm_agol.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_soothing_of_sm_agol.lua"
 	CARD.Name = "ce_expansion_magic_ltr_soothing_of_sm_agol"
@@ -111551,6 +112187,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_spiteful_banditry_067d7463.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_spiteful_banditry_067d7463.lua"
 	CARD.Name = "ce_expansion_magic_ltr_spiteful_banditry"
@@ -111642,6 +112279,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_spiteful_banditry_95d61d02.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_spiteful_banditry_95d61d02.lua"
 	CARD.Name = "ce_expansion_magic_ltr_spiteful_banditry"
@@ -111734,6 +112372,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_spiteful_banditry_a5aa36f5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_spiteful_banditry_a5aa36f5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_spiteful_banditry"
@@ -111920,6 +112559,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_spiteful_banditry.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_spiteful_banditry.lua"
 	CARD.Name = "ce_expansion_magic_ltr_spiteful_banditry"
@@ -112107,6 +112747,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stalwarts_of_osgiliath_51c9808b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stalwarts_of_osgiliath_51c9808b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stalwarts_of_osgiliath"
@@ -112239,6 +112880,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stalwarts_of_osgiliath.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stalwarts_of_osgiliath.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stalwarts_of_osgiliath"
@@ -112466,6 +113108,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stern_scolding_71cf02c8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stern_scolding_71cf02c8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stern_scolding"
@@ -112554,6 +113197,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stern_scolding.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stern_scolding.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stern_scolding"
@@ -112737,6 +113381,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stew_the_coneys_e32dd917.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stew_the_coneys_e32dd917.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stew_the_coneys"
@@ -112847,6 +113492,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stew_the_coneys.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stew_the_coneys.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stew_the_coneys"
@@ -113052,6 +113698,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sting_the_glinting_dagger_5e5a4c36.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sting_the_glinting_dagger_5e5a4c36.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sting_the_glinting_dagger"
@@ -113145,6 +113792,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sting_the_glinting_dagger_9a9d2b25.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sting_the_glinting_dagger_9a9d2b25.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sting_the_glinting_dagger"
@@ -113333,6 +113981,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_sting_the_glinting_dagger.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_sting_the_glinting_dagger.lua"
 	CARD.Name = "ce_expansion_magic_ltr_sting_the_glinting_dagger"
@@ -113521,6 +114170,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stone_of_erech_9333ab93.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stone_of_erech_9333ab93.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stone_of_erech"
@@ -113616,6 +114266,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_stone_of_erech.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_stone_of_erech.lua"
 	CARD.Name = "ce_expansion_magic_ltr_stone_of_erech"
@@ -113806,6 +114457,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_storm_of_saruman_42f6e425.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_storm_of_saruman_42f6e425.lua"
 	CARD.Name = "ce_expansion_magic_ltr_storm_of_saruman"
@@ -113943,6 +114595,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_storm_of_saruman_44c2effc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_storm_of_saruman_44c2effc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_storm_of_saruman"
@@ -114081,6 +114734,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_storm_of_saruman_b24e6980.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_storm_of_saruman_b24e6980.lua"
 	CARD.Name = "ce_expansion_magic_ltr_storm_of_saruman"
@@ -114313,6 +114967,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_storm_of_saruman.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_storm_of_saruman.lua"
 	CARD.Name = "ce_expansion_magic_ltr_storm_of_saruman"
@@ -114546,6 +115201,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_strider_ranger_of_the_north_d7a53a51.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_strider_ranger_of_the_north_d7a53a51.lua"
 	CARD.Name = "ce_expansion_magic_ltr_strider_ranger_of_the_north"
@@ -114649,6 +115305,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_strider_ranger_of_the_north.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_strider_ranger_of_the_north.lua"
 	CARD.Name = "ce_expansion_magic_ltr_strider_ranger_of_the_north"
@@ -114847,6 +115504,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_surrounded_by_orcs_db29d847.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_surrounded_by_orcs_db29d847.lua"
 	CARD.Name = "ce_expansion_magic_ltr_surrounded_by_orcs"
@@ -114972,6 +115630,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_surrounded_by_orcs.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_surrounded_by_orcs.lua"
 	CARD.Name = "ce_expansion_magic_ltr_surrounded_by_orcs"
@@ -115192,6 +115851,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swamp_2408efb4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swamp_2408efb4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swamp"
@@ -115622,6 +116282,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swamp_62033e57.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swamp_62033e57.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swamp"
@@ -116052,6 +116713,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swamp_9834ce66.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swamp_9834ce66.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swamp"
@@ -116482,6 +117144,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swamp.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swamp.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swamp"
@@ -116912,6 +117575,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swarming_of_moria_4fa9c842.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swarming_of_moria_4fa9c842.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swarming_of_moria"
@@ -117037,6 +117701,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_swarming_of_moria.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_swarming_of_moria.lua"
 	CARD.Name = "ce_expansion_magic_ltr_swarming_of_moria"
@@ -117257,6 +117922,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tale_of_tin_viel_38d8936a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tale_of_tin_viel_38d8936a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tale_of_tin_viel"
@@ -117347,6 +118013,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tale_of_tin_viel.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tale_of_tin_viel.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tale_of_tin_viel"
@@ -117532,6 +118199,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_th_oden_king_of_rohan_b26bb857.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_th_oden_king_of_rohan_b26bb857.lua"
 	CARD.Name = "ce_expansion_magic_ltr_th_oden_king_of_rohan"
@@ -117635,6 +118303,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_th_oden_king_of_rohan.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_th_oden_king_of_rohan.lua"
 	CARD.Name = "ce_expansion_magic_ltr_th_oden_king_of_rohan"
@@ -117833,6 +118502,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_balrog_durin_s_bane_688147cd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_balrog_durin_s_bane_688147cd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_balrog_durin_s_bane"
@@ -118042,6 +118712,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_balrog_durin_s_bane_6c1338c6.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_balrog_durin_s_bane_6c1338c6.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_balrog_durin_s_bane"
@@ -118156,6 +118827,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_balrog_durin_s_bane.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_balrog_durin_s_bane.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_balrog_durin_s_bane"
@@ -118365,6 +119037,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_balrog_flame_of_ud_n_50b2519b.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_balrog_flame_of_ud_n_50b2519b.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_balrog_flame_of_ud_n"
@@ -118530,6 +119203,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_balrog_flame_of_ud_n.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_balrog_flame_of_ud_n.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_balrog_flame_of_ud_n"
@@ -118734,6 +119408,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_bath_song_73aa9c02.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_bath_song_73aa9c02.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_bath_song"
@@ -118834,6 +119509,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_bath_song.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_bath_song.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_bath_song"
@@ -119029,6 +119705,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_battle_of_bywater_acea5b8f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_battle_of_bywater_acea5b8f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_battle_of_bywater"
@@ -119202,6 +119879,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_battle_of_bywater_bf6b02a3.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_battle_of_bywater_bf6b02a3.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_battle_of_bywater"
@@ -119319,6 +119997,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_battle_of_bywater.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_battle_of_bywater.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_battle_of_bywater"
@@ -119531,6 +120210,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_black_breath_411e9cea.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_black_breath_411e9cea.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_black_breath"
@@ -119657,6 +120337,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_black_breath.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_black_breath.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_black_breath"
@@ -119878,6 +120559,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_grey_havens_5c07d4fb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_grey_havens_5c07d4fb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_grey_havens"
@@ -120057,6 +120739,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_grey_havens_e931ef1d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_grey_havens_e931ef1d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_grey_havens"
@@ -120142,6 +120825,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_grey_havens.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_grey_havens.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_grey_havens"
@@ -120322,6 +121006,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_mouth_of_sauron_c949fa0f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_mouth_of_sauron_c949fa0f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_mouth_of_sauron"
@@ -120454,6 +121139,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_mouth_of_sauron.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_mouth_of_sauron.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_mouth_of_sauron"
@@ -120681,6 +121367,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_one_ring_1f4c66de.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_one_ring_1f4c66de.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_one_ring"
@@ -120834,6 +121521,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_one_ring_23bd85b1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_one_ring_23bd85b1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_one_ring"
@@ -120987,6 +121675,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_one_ring_2c32648f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_one_ring_2c32648f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_one_ring"
@@ -121084,6 +121773,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_one_ring_4a73cd79.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_one_ring_4a73cd79.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_one_ring"
@@ -121181,6 +121871,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_one_ring.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_one_ring.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_one_ring"
@@ -121373,6 +122064,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_ring_goes_south_080b26c0.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_ring_goes_south_080b26c0.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_ring_goes_south"
@@ -121553,6 +122245,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_ring_goes_south_40195d6e.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_ring_goes_south_40195d6e.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_ring_goes_south"
@@ -121677,6 +122370,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_ring_goes_south.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_ring_goes_south.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_ring_goes_south"
@@ -121896,6 +122590,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_shire_24411af8.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_shire_24411af8.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_shire"
@@ -122110,6 +122805,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_shire_590a00de.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_shire_590a00de.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_shire"
@@ -122230,6 +122926,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_shire.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_shire.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_shire"
@@ -122445,6 +123142,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_torment_of_gollum_f8cc2019.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_torment_of_gollum_f8cc2019.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_torment_of_gollum"
@@ -122571,6 +123269,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_torment_of_gollum.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_torment_of_gollum.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_torment_of_gollum"
@@ -122792,6 +123491,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_watcher_in_the_water_1383b801.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_watcher_in_the_water_1383b801.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_watcher_in_the_water"
@@ -122902,6 +123602,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_watcher_in_the_water_a6c0ba86.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_watcher_in_the_water_a6c0ba86.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_watcher_in_the_water"
@@ -123068,6 +123769,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_watcher_in_the_water_cf188691.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_watcher_in_the_water_cf188691.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_watcher_in_the_water"
@@ -123178,6 +123880,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_the_watcher_in_the_water.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_the_watcher_in_the_water.lua"
 	CARD.Name = "ce_expansion_magic_ltr_the_watcher_in_the_water"
@@ -123383,6 +124086,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_there_and_back_again_18885d03.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_there_and_back_again_18885d03.lua"
 	CARD.Name = "ce_expansion_magic_ltr_there_and_back_again"
@@ -123508,6 +124212,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_there_and_back_again.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_there_and_back_again.lua"
 	CARD.Name = "ce_expansion_magic_ltr_there_and_back_again"
@@ -123728,6 +124433,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tom_bombadil_3338ec55.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tom_bombadil_3338ec55.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tom_bombadil"
@@ -123855,6 +124561,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tom_bombadil_7461daa7.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tom_bombadil_7461daa7.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tom_bombadil"
@@ -123982,6 +124689,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tom_bombadil_d193e8ef.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tom_bombadil_d193e8ef.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tom_bombadil"
@@ -124204,6 +124912,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_tom_bombadil.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_tom_bombadil.lua"
 	CARD.Name = "ce_expansion_magic_ltr_tom_bombadil"
@@ -124426,6 +125135,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_took_reaper_41d6bba1.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_took_reaper_41d6bba1.lua"
 	CARD.Name = "ce_expansion_magic_ltr_took_reaper"
@@ -124558,6 +125268,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_took_reaper.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_took_reaper.lua"
 	CARD.Name = "ce_expansion_magic_ltr_took_reaper"
@@ -124785,6 +125496,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_trailblazer_s_boots.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_trailblazer_s_boots.lua"
 	CARD.Name = "ce_expansion_magic_ltr_trailblazer_s_boots"
@@ -124974,6 +125686,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_treason_of_isengard_7b2cbcd4.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_treason_of_isengard_7b2cbcd4.lua"
 	CARD.Name = "ce_expansion_magic_ltr_treason_of_isengard"
@@ -125103,6 +125816,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_treason_of_isengard.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_treason_of_isengard.lua"
 	CARD.Name = "ce_expansion_magic_ltr_treason_of_isengard"
@@ -125327,6 +126041,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_troll_of_khazad_d_m_7eea3d90.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_troll_of_khazad_d_m_7eea3d90.lua"
 	CARD.Name = "ce_expansion_magic_ltr_troll_of_khazad_d_m"
@@ -125438,6 +126153,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_troll_of_khazad_d_m.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_troll_of_khazad_d_m.lua"
 	CARD.Name = "ce_expansion_magic_ltr_troll_of_khazad_d_m"
@@ -125644,6 +126360,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ugl_k_of_the_white_hand_a270854a.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ugl_k_of_the_white_hand_a270854a.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ugl_k_of_the_white_hand"
@@ -125747,6 +126464,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_ugl_k_of_the_white_hand.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_ugl_k_of_the_white_hand.lua"
 	CARD.Name = "ce_expansion_magic_ltr_ugl_k_of_the_white_hand"
@@ -125945,6 +126663,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_uruk_hai_berserker_2f9d387f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_uruk_hai_berserker_2f9d387f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_uruk_hai_berserker"
@@ -126077,6 +126796,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_uruk_hai_berserker.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_uruk_hai_berserker.lua"
 	CARD.Name = "ce_expansion_magic_ltr_uruk_hai_berserker"
@@ -126304,6 +127024,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_voracious_fell_beast_1466d953.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_voracious_fell_beast_1466d953.lua"
 	CARD.Name = "ce_expansion_magic_ltr_voracious_fell_beast"
@@ -126519,6 +127240,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_voracious_fell_beast_7f6cfd87.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_voracious_fell_beast_7f6cfd87.lua"
 	CARD.Name = "ce_expansion_magic_ltr_voracious_fell_beast"
@@ -126639,6 +127361,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_voracious_fell_beast.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_voracious_fell_beast.lua"
 	CARD.Name = "ce_expansion_magic_ltr_voracious_fell_beast"
@@ -126854,6 +127577,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_war_of_the_last_alliance_289738bb.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_war_of_the_last_alliance_289738bb.lua"
 	CARD.Name = "ce_expansion_magic_ltr_war_of_the_last_alliance"
@@ -126979,6 +127703,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_war_of_the_last_alliance.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_war_of_the_last_alliance.lua"
 	CARD.Name = "ce_expansion_magic_ltr_war_of_the_last_alliance"
@@ -127199,6 +127924,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_warbeast_of_gorgoroth_53e0a952.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_warbeast_of_gorgoroth_53e0a952.lua"
 	CARD.Name = "ce_expansion_magic_ltr_warbeast_of_gorgoroth"
@@ -127334,6 +128060,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_warbeast_of_gorgoroth.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_warbeast_of_gorgoroth.lua"
 	CARD.Name = "ce_expansion_magic_ltr_warbeast_of_gorgoroth"
@@ -127564,6 +128291,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_warg_rider_2f051f79.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_warg_rider_2f051f79.lua"
 	CARD.Name = "ce_expansion_magic_ltr_warg_rider"
@@ -127661,6 +128389,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_warg_rider.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_warg_rider.lua"
 	CARD.Name = "ce_expansion_magic_ltr_warg_rider"
@@ -127758,6 +128487,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_westfold_rider_bd4cf177.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_westfold_rider_bd4cf177.lua"
 	CARD.Name = "ce_expansion_magic_ltr_westfold_rider"
@@ -127860,6 +128590,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_westfold_rider.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_westfold_rider.lua"
 	CARD.Name = "ce_expansion_magic_ltr_westfold_rider"
@@ -128057,6 +128788,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_willow_wind_87d97fbd.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_willow_wind_87d97fbd.lua"
 	CARD.Name = "ce_expansion_magic_ltr_willow_wind"
@@ -128162,6 +128894,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_willow_wind.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_willow_wind.lua"
 	CARD.Name = "ce_expansion_magic_ltr_willow_wind"
@@ -128362,6 +129095,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_bringer_of_ruin_1d8b4f7f.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_bringer_of_ruin_1d8b4f7f.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_bringer_of_ruin"
@@ -128525,6 +129259,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_bringer_of_ruin.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_bringer_of_ruin.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_bringer_of_ruin"
@@ -128727,6 +129462,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_of_angmar_355d9047.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_of_angmar_355d9047.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_of_angmar"
@@ -128863,6 +129599,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_of_angmar_41d413bc.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_of_angmar_41d413bc.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_of_angmar"
@@ -128999,6 +129736,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_of_angmar_5ee90e92.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_of_angmar_5ee90e92.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_of_angmar"
@@ -129230,6 +129968,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_of_angmar_cf2b3fe5.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_of_angmar_cf2b3fe5.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_of_angmar"
@@ -129461,6 +130200,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_witch_king_of_angmar.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_witch_king_of_angmar.lua"
 	CARD.Name = "ce_expansion_magic_ltr_witch_king_of_angmar"
@@ -129692,6 +130432,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_wizard_s_rockets_19351d8d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_wizard_s_rockets_19351d8d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_wizard_s_rockets"
@@ -129888,6 +130629,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_wizard_s_rockets_c545ad39.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_wizard_s_rockets_c545ad39.lua"
 	CARD.Name = "ce_expansion_magic_ltr_wizard_s_rockets"
@@ -129989,6 +130731,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_wizard_s_rockets.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_wizard_s_rockets.lua"
 	CARD.Name = "ce_expansion_magic_ltr_wizard_s_rockets"
@@ -130185,6 +130928,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_wose_pathfinder_55329e4d.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_wose_pathfinder_55329e4d.lua"
 	CARD.Name = "ce_expansion_magic_ltr_wose_pathfinder"
@@ -130287,6 +131031,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_wose_pathfinder.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_wose_pathfinder.lua"
 	CARD.Name = "ce_expansion_magic_ltr_wose_pathfinder"
@@ -130484,6 +131229,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_you_cannot_pass_189dab84.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_you_cannot_pass_189dab84.lua"
 	CARD.Name = "ce_expansion_magic_ltr_you_cannot_pass"
@@ -130582,6 +131328,7 @@ end
 
 do
 	local CARD = {}
+	CARD.hooks = setmetatable({}, { __index = CARD })
 	CARD.FileName = "magic_ltr_you_cannot_pass.lua"
 	CARD.FilePath = "ce_expansion_magic_ltr/cards/magic_ltr_you_cannot_pass.lua"
 	CARD.Name = "ce_expansion_magic_ltr_you_cannot_pass"
