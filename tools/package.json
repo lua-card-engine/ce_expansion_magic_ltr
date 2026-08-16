@@ -1,7 +1,7 @@
 {
     "name": "ce_expansion_tools",
     "version": "0.1.0",
-    "description": "Tools for ce_expansion_magic_ltr expansion pack",
+    "description": "Tools for ce_expansion_magic_ltr expansion set",
     "main": "index.js",
     "type": "module",
     "scripts": {
